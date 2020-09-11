@@ -9,7 +9,9 @@
   "author": "Rafael",
   "license": "ISC",
   "dependencies": {
+    "body-parse": "^0.1.0",
     "consign": "^0.1.6",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
   }
 }
