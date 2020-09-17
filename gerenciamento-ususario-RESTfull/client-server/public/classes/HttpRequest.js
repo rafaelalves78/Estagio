@@ -40,8 +40,9 @@ class HttpRequest {
                 resolve(obj);
     
             };
+            ajax.setRequestHeader('Content-type', 'application/json')
     
-           ajax.send(); 
+           ajax.send(JSON.stringify(params)); 
 
         });
     }
