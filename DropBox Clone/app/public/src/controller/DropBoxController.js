@@ -1,6 +1,12 @@
 class DropBoxController{
 
     constructor(){
+  
+        this.onselectionchange = new Event('selectionchange');
+
+        this.bntNewFolder = document.querySelector('#btn-new-folder');
+        this.btnRename = document.querySelector('#btn-rename');
+        this.btnDelete = document.querySelector('#btn-delete');
 
         this.btnSendFileEl = document.querySelector('#btn-send-file');
         this.inputFilesEl = document.querySelector('#files');
@@ -31,8 +37,30 @@ class DropBoxController{
           firebase.analytics();
     }
 
+    getSelection(){
+
+        return this.listFilesEl.querySelectorAll('.selected');
+    }
+
 
     initEvent(){
+
+        this.listFilesEl.addEventListener('selectionchange', e=>{
+            switch(this.getSelection().length){
+
+                case 0:
+                  this.btnDelete.style.display = 'none';
+                  this.btnRename.style.display = 'none';
+                break;
+                case 1:
+                    this.btnDelete.style.display = 'block';
+                    this.btnRename.style.display = 'block';
+                break;
+                default:
+                    this.btnDelete.style.display = 'block';
+                    this.btnRename.style.display = 'none';
+            }
+        })
 
         this.btnSendFileEl.addEventListener('click', event =>{
             
@@ -384,7 +412,6 @@ class DropBoxController{
     
         li.addEventListener('click', e =>{
 
-
             if(e.shiftKey){
                 let firstLi = this.listFilesEl.querySelector('.selected');
 
@@ -409,6 +436,7 @@ class DropBoxController{
                     }
 
                   });
+                  this.listFilesEl.dispatchEvent(this.onselectionchange);
 
 
                   return true;
@@ -421,7 +449,8 @@ class DropBoxController{
                 })
             }
 
-            li.classList.toggle('selected')
+            li.classList.toggle('selected');
+            this.listFilesEl.dispatchEvent(this.onselectionchange);
         })
     }
 
