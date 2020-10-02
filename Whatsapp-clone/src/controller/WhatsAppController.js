@@ -221,17 +221,24 @@ class WhatsAppController{
         });
 
         this.el.inputText.on('keypress', e=>{
-            e.preventDefault();
-            this.el.btnSend.click();
+           
+            if(e.key === 'Enter' && !e.ctrlKey){
+                e.preventDefault();
+                this.el.btnSend.click();
+            }          
+            
         })
 
 
         this.el.inputText.on('keyup', e=>{
             if(this.el.inputText.innerHTML.length){
+               
                 this.el.inputPlaceholder.hide();
                 this.el.btnSendMicrophone.hide();
                 this.el.btnSend.show();
+
             }else{
+
                 this.el.inputPlaceholder.show();
                 this.el.btnSendMicrophone.show();
                 this.el.btnSend.hide();
@@ -244,6 +251,26 @@ class WhatsAppController{
 
         this.el.btnEmojis.on('click', e=>{
             this.el.panelEmojis.toggleClass('open');
+        })
+
+        this.el.panelEmojis.querySelectorAll('.emojik').forEach(emoji=>{
+
+            emoji.on('click', e=>{
+
+                let img = this.el.imgEmojiDefault.cloneNode();
+
+                img.style.cssText = emoji.style.cssText;
+                img.dataset.unicode = emoji.dataset.unicode;
+                img.alt = emoji.dataset.unicode;
+
+                emoji.classList.forEach(name =>{
+                    img.classList.add(name)
+                });
+
+                this.el.inputText.appendChild(img)
+
+                this.el.inputText.dispatchEvent(new Event('keyup'))
+            })
         })
 
     }
