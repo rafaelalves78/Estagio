@@ -1,4 +1,7 @@
-class WhatsAppController{
+import {Format} from './../ultil/Format';
+import {CameraController} from './CameraController'
+
+export  class WhatsAppController{
 
     constructor(){
 
@@ -176,6 +179,7 @@ class WhatsAppController{
         this.el.btnClosePanelCamera.on('click', e=>{
             this.closeAllMainPanel();
             this.el.panelMessagesContainer.show();
+            this._camera.stop();
         });
 
         this.el.btnTakePicture.on('click', e=>{
