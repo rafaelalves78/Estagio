@@ -1,8 +1,12 @@
 import { URL } from "url";
+import { ClassEvent } from "../ultil/classEvent";
 
-export class MicrophoneController{
+
+export class MicrophoneController extends ClassEvent{
 
     constructor(){
+
+        super();
 
         navigator.mediaDevices.getUserMedia({ audio: true }).then(stream => {
 
@@ -14,10 +18,7 @@ export class MicrophoneController{
            
            audio.srcObject = stream
            audio.play();
-
-           
-
-           
+           this.trigger('play', audio);     
 
         }).catch(err => {
 
