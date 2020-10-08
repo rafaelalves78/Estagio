@@ -3,6 +3,7 @@ import {CameraController} from './CameraController';
 import {MicrophoneController} from './MicrophoneController';
 import {DocumentPreviewController} from './DocumentPreviewController';
 import { Firebase } from './../ultil/Firebase';
+//import { response } from 'express';
 //import { from } from 'webpack-sources/lib/CompatSource';
 
 
@@ -10,10 +11,26 @@ export  class WhatsAppController{
 
     constructor(){
 
+        this._firebase = new Firebase();
+        this.initAuth();
         this.elementsPrototype();
         this.loadElements();
         this.initEvents();
-        this._firebase = new Firebase();
+        
+    }
+
+    initAuth(){
+        this._firebase.initAuth()
+        .then(response=>{
+
+            this._user = response.user;
+            this.el.appContent.css({
+                display:'flex'
+            })
+        }).catch(err =>{
+
+        })
+           
     }
 
     loadElements(){

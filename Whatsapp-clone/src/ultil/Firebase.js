@@ -25,9 +25,7 @@ export class Firebase{
             firebase.initializeApp(this._firebaseConfig);
             firebase.analytics();
 
-            firebase.firestore().settings({
-                timestampsInSnapshots: true
-            })
+           
 
             this._initialized = true
         }    
@@ -40,6 +38,29 @@ export class Firebase{
 
     static hd(){
         return firebase.storage();
+    }
+
+    initAuth(){
+
+        return new Promise((resolve, reject)=>{
+
+            let provider = new firebase.auth.GoogleAuthProvider();
+
+            firebase.auth().signInWithPopup(provider).then(function (result) {
+
+                let token = result.credential.accessToken;
+                let user = result.user;
+
+                resolve(user, token);
+
+            }).catch(function (error) {
+
+                reject(error);
+
+            });
+
+        });        
+
     }
 
 
