@@ -17,10 +17,39 @@ router.get('/', (req, res, next) => {
         menus: results,
        
       });
+    });
+});
 
-    }
-  );
+router.get('/contacts', function(req,res, next){
+  
+  res.render('contacts',{
+    title: 'Contato - Restaurante Saboroso!',
+      
+  });
+});
 
+router.get('/menus', function(req,res, next){
+  
+  res.render('menus',{
+    title: 'Menus - Restaurante Saboroso!',
+      
+  });
+});
+
+router.get('/services', function(req,res, next){
+  
+  res.render('services',{
+    title: 'Serviços - Restaurante Saboroso!',
+      
+  });
+});
+
+router.get('/reservations', function(req,res, next){
+  
+  res.render('reservations',{
+    title: 'Reservas - Restaurante Saboroso!',
+      
+  });
 });
 
 module.exports = router;
