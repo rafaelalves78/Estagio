@@ -21,13 +21,13 @@ export class Firebase{
 
     init(){
 
-        if(!this._initialized){
+        if(!window._initializedFirebase){
             firebase.initializeApp(this._firebaseConfig);
             firebase.analytics();
 
            
 
-            this._initialized = true
+            window._initializedFirebase = true
         }    
   
     }
@@ -42,7 +42,7 @@ export class Firebase{
 
     initAuth(){
 
-        return new Promise((resolve, reject)=>{
+        return new Promise((s, f)=>{
 
             let provider = new firebase.auth.GoogleAuthProvider();
 
@@ -51,11 +51,11 @@ export class Firebase{
                 let token = result.credential.accessToken;
                 let user = result.user;
 
-                resolve(user, token);
+                s(user, token);
 
             }).catch(function (error) {
 
-                reject(error);
+                f(error);
 
             });
 
