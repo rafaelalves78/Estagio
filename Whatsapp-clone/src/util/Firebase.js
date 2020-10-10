@@ -5,7 +5,7 @@ export class Firebase{
 
     constructor(){
 
-        this._firebaseConfig = {
+        this._config = {
             apiKey: "AIzaSyDvKwI5g1fqTz-RRg4plACKoi3DJtYSFZk",
             authDomain: "whatsapp-clone-1a679.firebaseapp.com",
             databaseURL: "https://whatsapp-clone-1a679.firebaseio.com",
@@ -22,7 +22,7 @@ export class Firebase{
     init(){
 
         if(!window._initializedFirebase){
-            firebase.initializeApp(this._firebaseConfig);
+            firebase.initializeApp(this._config);
             firebase.analytics();
 
            
@@ -40,28 +40,31 @@ export class Firebase{
         return firebase.storage();
     }
 
+ 
+
     initAuth(){
 
         return new Promise((s, f)=>{
 
-            let provider = new firebase.auth.GoogleAuthProvider();
+            var provider = new firebase.auth.GoogleAuthProvider();
+            
 
-            firebase.auth().signInWithPopup(provider).then(function (result) {
+            firebase.auth().signInWithPopup(provider).then(function(result){
 
-                let token = result.credential.accessToken;
-                let user = result.user;
+                var token = result.credential.accessToken;
+                var user = result.user;
 
-                s(user, token);
+                s({
+                    user,
+                    token
+                });
 
             }).catch(function (error) {
 
-                f(error);
+                f(error);           
 
-            });
+            });           
 
-        });        
-
+        });     
     }
-
-
 }

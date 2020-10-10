@@ -1,4 +1,5 @@
 //import { from } from "webpack-sources/lib/CompatSource";
+
 import { ClassEvent } from "../util/classEvent";
 
 
@@ -15,6 +16,6 @@ export class Model extends ClassEvent{
         this.trigger('datachange', this.toJSON());
     }
     toJSON(){
-
+          return this._data;
     }
 }

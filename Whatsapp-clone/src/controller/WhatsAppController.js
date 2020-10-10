@@ -21,44 +21,42 @@ export  class WhatsAppController{
     }
 
     initAuth(){
-        this._firebase.initAuth()
-        .then(response=>{
-
-            console.log('response', response)
+        this._firebase.initAuth().then(response=>{
 
             this._user = new User(response.user.email)
 
             this._user.on('datachange', data =>{
 
-                document.querySelector('title').innerHTML = `${data.name} | WhatsApp Clone`;
+                document.querySelector('title').innerHTML = data.name + ' - WhatsApp Clone'
 
-                this.el.inputNamePanelEditProfile.innerHTML = data.name
+                this.el.inputNamePanelEditProfile.innerHTML = data.name;
 
-                if (data.photo) {
-                   let photo = this.el.imgPanelEditProfile;
-                   photo.src = data.photo;
-                   photo.show();
-                   this.el.imgDefautPanelEditProfile.hide()
+                if(data.photo){
+                    let photo = this.el.imgPanelEditProfile;
+                    photo.src = data.photo;
+                    photo.show();
+                    this.el.imgDefaultPanelEditProfile.hide();
 
-                   let photo2 = this.el.myPhoto.querySelector('img')
-                   photo2.src = data.photo;
-                   photo2.show()
-                } 
-                                
-            })
+                    let photo2 = this.el.myPhoto.querySelector('img');
+                    photo2.src = data.photo;
+                    photo2.show();
 
-            this._user.name = response.user.displayName;            
-            this._user.photo = response.user.photoURL;
-            this._user.email = response.user.email;
+                    
+                }
+
+            });
+
+            this._user.name = response.user.displayName            
+            this._user.photo = response.user.photoURL
+            this._user.email = response.user.email
 
             this._user.save().then(()=>{
                 this.el.appContent.css({
                     display:'flex'
                 })
     
-            })
-
-           
+            });          
+                     
         }).catch(err =>{
               console.error(err);
         })
