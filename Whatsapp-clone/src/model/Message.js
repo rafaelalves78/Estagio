@@ -19,7 +19,7 @@ export class Message extends Model{
     set status(value){ return this._data.status = value;}
 
 
-    getViewElement(){
+    getViewElement(me = true){
        
         let div = document.createElement('div');
 
