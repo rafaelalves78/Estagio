@@ -429,6 +429,7 @@ export  class WhatsAppController{
 
             [...this.el.inputPhoto.files].forEach(file=>{
 
+                Message.send(this._contactActive.chatId,this._user.email,file)
             })
 
         })
