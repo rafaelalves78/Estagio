@@ -87,7 +87,9 @@ export class MicrophoneController extends ClassEvent{
 
             });
 
+
             this._mediaRecorder.start();
+           
 
         }
 
