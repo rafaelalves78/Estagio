@@ -23,9 +23,66 @@ export  class WhatsAppController{
         this.elementsPrototype();
         this.loadElements();
         this.initEvents();
+        this.chekNotifications();
         
     }
 
+    checkNotifications() {
+
+        if (typeof Notification === 'function') {
+
+            if (Notification.permission !== 'granted') {
+
+                this.el.alertNotificationPermission.show();
+
+
+
+            } else {
+
+                this.el.alertNotificationPermission.hide();
+
+            }
+
+            this.el.alertNotificationPermission.on('click', e => {
+
+                Notification.requestPermission(permission => {
+
+                    if (permission === "granted") {
+                        this.el.alertNotificationPermission.hide();
+                        console.info('Notificções permitidas!');
+                    }
+
+                });
+
+            });
+
+        }
+
+    }
+
+    notification(data) {
+
+        if (!this._active && Notification.permission === 'granted') {
+
+            let n = new Notification(this._contactActivet.name, {
+                icon: this._contactActive.photo,
+                body: data.content
+            });
+
+            let nSound = new Audio('./audio/alert.mp3');
+
+            nSound.currentTime = 0;
+            nSound.play();
+
+            setTimeout(() => {
+
+                if (n) n.close();
+
+            }, 3000);
+
+        }
+
+    }
     initAuth(){
         this._firebase.initAuth().then(response=>{
 
