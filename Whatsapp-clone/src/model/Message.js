@@ -1,6 +1,7 @@
 
 import { Firebase } from "../util/Firebase";
 import { Format } from "../util/Format";
+import { Upload } from "../util/Upload";
 import { Model } from "./Model";
 
 export class Message extends Model{
@@ -350,7 +351,7 @@ export class Message extends Model{
                         btnPlay.show();
 
                     }else{
-                        btnPause,hide()
+                        btnPause,show()
                     }
                 }
 
@@ -410,29 +411,7 @@ export class Message extends Model{
 
     static upload(file, from){
 
-        return new Promise((s, f)=>{
-
-            let uploadTask = Firebase
-                .hd()
-                .ref(from)
-                .child(Date.now() + '_' + file.name)
-                .put(file);
-
-            uploadTask.on('state_changed', snapshot => {
-
-                console.log('upload', snapshot);
-
-            }, err => {
-
-                f(err);
-
-            }, () => {
-
-                s(uploadTask.snapshot);
-
-            });
-
-        });
+      return Upload.send(file, from)
 
     }
 
@@ -541,25 +520,33 @@ export class Message extends Model{
 
         return new Promise((s, f)=>{
 
-             Message.getRef(chatId).add({
+            let promiseSent = Message.getRef(chatId).add({
                 content,
                 from,
                 type,
                 timeStamp: new Date(),
                 status: 'wait'
-            }).then(result =>{
-
-                let docRef = result.parent.doc(result.id)
-                docRef.set({
-                    status:'sent'
-                },{
-                    merge: true
-
-                }).then(() =>{
-                    s(docRef)
-                })
-            })
+            });
             
+            if (setSent) {
+
+                promiseSent.then(result => {
+
+                    let docRef = result.parent.doc(result.id);
+
+                    s(docRef.set({
+                        status: 'sent'
+                    }, {
+                        merge: true
+                    }));
+
+                }).catch(err=>{ f(err); });
+
+            } else {
+
+                s(promiseSent);
+
+            }
 
         });
 
