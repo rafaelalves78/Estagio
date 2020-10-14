@@ -15,6 +15,16 @@ export class DocumentPreviewController{
            
             let reader = new FileReader();
 
+            reader.onerror = event => {
+
+                reject({
+                    error: true,
+                    event
+                });
+
+            };
+
+
             switch(this._file.type){
                 case 'image/png':
                 case 'image/jpeg':
@@ -80,14 +90,19 @@ export class DocumentPreviewController{
                     reader.readAsArrayBuffer(this._file);
 
                     break;
-                default:
-                    f()
 
-               
+                default:
+                    
+                    reject({
+                        error: false
+                    });
+
+                    break;
+
             }
-        })
+
+        }); 
 
     }
-
 
 }
