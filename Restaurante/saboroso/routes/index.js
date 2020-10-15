@@ -11,6 +11,7 @@ router.get('/', (req, res, next) => {
     res.render('index', {
       title: 'Restaurante Saboroso!',
       menus: results,
+      isHome: true
     });
 
   });
