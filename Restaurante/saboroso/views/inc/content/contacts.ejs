@@ -3,12 +3,15 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="col-md-6 animate-box">
+                   
+                   <%- include('alerts') -%>
+
                 <h3>Entre em Contato</h3>
-                <form action="#">
+                <form action="/contacts"  method="POST">
                     <div class="row form-group">
                         <div class="col-md-12">
                             <label class="sr-only" for="name">Nome</label>
-                            <input type="text" id="name" class="form-control" placeholder="Seu nome">
+                            <input type="text" id="name" name="name" class="form-control" placeholder="Seu nome" value="<%= body.name %>">
                         </div>
                         
                     </div>
@@ -16,13 +19,13 @@
                     <div class="row form-group">
                         <div class="col-md-12">
                             <label class="sr-only" for="email">E-mail</label>
-                            <input type="text" id="email" class="form-control" placeholder="Seu endereço de e-mail">
+                            <input type="text" id="email"  name="email"  class="form-control" placeholder="Seu endereço de e-mail" value="<%= body.email %>">
                         </div>
                     </div>
                     <div class="row form-group">
                         <div class="col-md-12">
                             <label class="sr-only" for="message">Mensagem</label>
-                            <textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="Escreve alguma coisa"></textarea>
+                            <textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="Escreve alguma coisa"><%= body.message %></textarea>
                         </div>
                     </div>
                     <div class="form-group">
@@ -36,10 +39,10 @@
                 <div class="gtco-contact-info">
                     <h3>Informações de Contato</h3>
                     <ul>
-                        <li class="address"></li>
-                        <li class="phone"><a href="tel://1121497360">(11) 707070770</a></li>
-                        <li class="email"><a href="mailto:contato@.com.br"></a></li>
-                        <li class="url"><a href="https://www.com.br"></a></li>
+                        <li class="address">Rua Joao</li>
+                        <li class="phone"><a href="tel://1234567890">(32)70707070</a></li>
+                        <li class="email"><a href="mailto:contato@.com.br">rafaelalves78@gmail.com</a></li>
+                        <li class="url"><a href=""></a>restauranteSaboroso.com.br</li>
                     </ul>
                 </div>
 
