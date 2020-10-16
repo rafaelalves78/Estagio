@@ -2,7 +2,8 @@ var express = require('express');
 //const { delete } = require('../app');
 var users = require("./../inc/users")
 var admin = require("./../inc/admin")
-var menus = require("./../inc/menus")
+var menus = require("./../inc/menus");
+
 var router = express.Router();
 
 
@@ -102,9 +103,19 @@ router.post("/menus", function(req, res, next){
     }).catch(err => {
 
         res.send(err)
-        
+
     })
 
+
+});
+
+router.delete("/menus/:id", function(req, res, next){
+
+    menus.delete(req.params.id).then(results =>{
+        res.send(results);
+    }).catch(err =>{
+        res.send(err)
+    })
 
 })
 
