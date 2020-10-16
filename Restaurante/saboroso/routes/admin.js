@@ -81,6 +81,8 @@ router.get("/emails", function(req, res, next){
     res.render("admin/emails", admin.getParams(req))
 
 })
+
+
 router.get("/menus", function(req, res, next){
 
     menus.getMenus().then(data =>  {
@@ -90,6 +92,13 @@ router.get("/menus", function(req, res, next){
     })
     
 })
+
+router.post("/menus", function(req, res, next){
+    res.send(req.body)
+})
+
+
+
 router.get("/reservations", function(req, res, next){
 
     res.render("admin/reservations", admin.getParams(req, {

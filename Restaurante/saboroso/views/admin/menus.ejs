@@ -142,4 +142,29 @@
 
 <%- include('inc/footer')-%>
 
+<script>
+
+  let formCreate = document.querySelector("#modal-create form")
+
+  formCreate.addEventListener('submit', e =>{
+   
+    e.preventDefault();
+   
+    let formCreateDate = new FormData(formCreate);
+
+    fetch("/admin/menus", {
+      method: "POST",
+      body: formCreateDate
+    })
+      .then(response => response.json())
+      .then(json => {
+        
+      })
+
+  })
+
+
+
+</script>
+
    
