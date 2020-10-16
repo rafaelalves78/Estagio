@@ -38,17 +38,17 @@ module.exports = {
 
             ];
 
-            if(parseInt(fields.id)> 0){
+            if(parseInt(fields.id) > 0){
                 
                 query = `
-                   UPDATE tb_reservation
+                   UPDATE tb_reservationS
                    SET 
-                        name = ?
-                        email = ?
-                        people = ?
-                        date = ?
+                        name = ?,
+                        email = ?,
+                        people = ?,
+                        date = ?,
                         time = ?
-                   WHERE id =?
+                   WHERE id = ?
                 `;
 
                 params.push(fields.id)
