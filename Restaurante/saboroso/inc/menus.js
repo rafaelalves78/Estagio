@@ -1,8 +1,8 @@
 
 let conn = require('./db');
 let  path  = require('path');
-const { promise } = require('./db');
-const { resolve } = require('path');
+//const { promise } = require('./db');
+//const { resolve } = require('path');
 
 module.exports = {
     getMenus(){
