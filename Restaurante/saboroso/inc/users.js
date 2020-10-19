@@ -46,8 +46,8 @@ module.exports = {
         return new Promise((resolve, reject) => {
 
             conn.query(`
-                SELECT * FROM tb_users ORDER BY title
-                `,(err, results, fields) => {
+                SELECT * FROM tb_users ORDER BY name
+                `,(err, results) => {
 
                 if(err){
                     reject(err)
@@ -86,8 +86,7 @@ module.exports = {
 
                 query = `
                     
-                    INSERT INTO 
-                        tb_users (name, email, password)
+                    INSERT INTO  tb_users (name, email, password)
                         VALUES (?, ?, ?)
                 `;
 
@@ -118,7 +117,7 @@ module.exports = {
         return new Promise((resolve, reject) => {
 
             conn.query(`
-                DELETE FROM tb_menus  WHERE id = ?
+                DELETE FROM tb_users  WHERE id = ?
             `, [
 
                 id

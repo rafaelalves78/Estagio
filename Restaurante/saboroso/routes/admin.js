@@ -168,12 +168,12 @@ router.get("/users", function(req, res, next){
 
     users.getUsers().then(data =>{
 
-        req.render('admin/users', admin.getParams(req, {
+        res.render('admin/users', admin.getParams(req, {
             data
         }))
     })
 
-    res.render("admin/users", admin.getParams(req))
+   
 
 })
 router.post("/users", function(req, res, next){
