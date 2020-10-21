@@ -55,5 +55,98 @@ class Pagination {
         return this.totalPages;
     }
 
+    getNavigation(params) {
+
+        // Quantidade de botões de paginacao que queremos exibir
+        let limitPagesNav = 5
+        let links = [];
+        let nrstart = 0;
+        let nrend = 0;
+
+        if (this.getTotalPages() < limitPagesNav) {
+
+            limitPagesNav = this.getTotalPages()
+
+        }
+
+        // Verificar se estamos nas primeiras paginas
+        if ((this.getCurrentPage() - parseInt(limitPagesNav / 2)) < 1) {
+
+            nrstart = 1;
+            nrend = limitPagesNav;
+
+        }
+
+        //Estamos chegando nas ultimas páginas
+        else if ((this.getCurrentPage() + parseInt(limitPagesNav / 1)) > this.getTotalPages()) {
+
+            nrstart = this.getCurrentPage() - limitPagesNav;
+            nrend = this.getTotalPages();
+
+        }else {
+
+            nrstart = this.getCurrentPage() - parseInt(limitPagesNav / 2)
+            nrend = this.getCurrentPage() + parseInt(limitPagesNav / 2)
+
+        }
+
+        //Colocando os botoes de "seta"
+        if (this.getCurrentPage() > 1) {
+
+            links.push({
+
+                text: '<<',
+                href: '?' + this.getQreryString(Object.assign({}, params, {
+                    page: this.getCurrentPage() - 1
+                }))
+
+            })
+        }
+
+        for (let x = nrstart; x <= nrend; x++) {
+
+            links.push({
+
+                text: x,
+                href: '?' + this.getQreryString(Object.assign({}, params, { page: x })),
+     
+                active: (x === this.getCurrentPage())
+
+            })
+
+        }
+        //Colocando os botoes de "seta"
+        if (this.getCurrentPage() < this.getTotalPages()) {
+
+            links.push({
+
+                text: '>>',
+                href: '?' + this.getQreryString(Object.assign({}, params, {
+                    page: this.getCurrentPage() + 1
+                }))
+
+            })
+        }
+
+        return links;
+
+    }
+    getQreryString(params) {
+
+        // Pegando os parâmetros da nossa URL
+        let queryString = [];
+
+        for (let name in params) {
+
+            queryString.push(`${name}=${params[name]}`)
+
+        }
+
+        return queryString.join('&')
+
+    }
+
 }
+
+
 module.exports = Pagination;
