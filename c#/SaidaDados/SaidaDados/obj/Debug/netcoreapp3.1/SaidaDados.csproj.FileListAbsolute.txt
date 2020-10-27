@@ -1,0 +1,10 @@
+C:\projetos\SaidaDados\SaidaDados\obj\Debug\netcoreapp3.1\SaidaDados.AssemblyInfoInputs.cache
+C:\projetos\SaidaDados\SaidaDados\obj\Debug\netcoreapp3.1\SaidaDados.AssemblyInfo.cs
+C:\projetos\SaidaDados\SaidaDados\bin\Debug\netcoreapp3.1\SaidaDados.exe
+C:\projetos\SaidaDados\SaidaDados\bin\Debug\netcoreapp3.1\SaidaDados.deps.json
+C:\projetos\SaidaDados\SaidaDados\bin\Debug\netcoreapp3.1\SaidaDados.runtimeconfig.json
+C:\projetos\SaidaDados\SaidaDados\bin\Debug\netcoreapp3.1\SaidaDados.runtimeconfig.dev.json
+C:\projetos\SaidaDados\SaidaDados\bin\Debug\netcoreapp3.1\SaidaDados.dll
+C:\projetos\SaidaDados\SaidaDados\bin\Debug\netcoreapp3.1\SaidaDados.pdb
+C:\projetos\SaidaDados\SaidaDados\obj\Debug\netcoreapp3.1\SaidaDados.dll
+C:\projetos\SaidaDados\SaidaDados\obj\Debug\netcoreapp3.1\SaidaDados.pdb

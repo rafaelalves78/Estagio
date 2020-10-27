@@ -1,0 +1,13 @@
+C:\projetos\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.exe
+C:\projetos\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.deps.json
+C:\projetos\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.runtimeconfig.json
+C:\projetos\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.runtimeconfig.dev.json
+C:\projetos\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.dll
+C:\projetos\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.pdb
+C:\projetos\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.csprojAssemblyReference.cache
+C:\projetos\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.csproj.CoreCompileInputs.cache
+C:\projetos\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.AssemblyInfoInputs.cache
+C:\projetos\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.AssemblyInfo.cs
+C:\projetos\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.dll
+C:\projetos\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.pdb
+C:\projetos\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.genruntimeconfig.cache

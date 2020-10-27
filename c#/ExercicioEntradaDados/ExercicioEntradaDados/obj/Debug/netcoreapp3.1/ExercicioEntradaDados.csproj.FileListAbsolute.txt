@@ -1,0 +1,11 @@
+C:\projetos\ExercicioEntradaDados\ExercicioEntradaDados\bin\Debug\netcoreapp3.1\ExercicioEntradaDados.exe
+C:\projetos\ExercicioEntradaDados\ExercicioEntradaDados\bin\Debug\netcoreapp3.1\ExercicioEntradaDados.deps.json
+C:\projetos\ExercicioEntradaDados\ExercicioEntradaDados\bin\Debug\netcoreapp3.1\ExercicioEntradaDados.runtimeconfig.json
+C:\projetos\ExercicioEntradaDados\ExercicioEntradaDados\bin\Debug\netcoreapp3.1\ExercicioEntradaDados.runtimeconfig.dev.json
+C:\projetos\ExercicioEntradaDados\ExercicioEntradaDados\bin\Debug\netcoreapp3.1\ExercicioEntradaDados.dll
+C:\projetos\ExercicioEntradaDados\ExercicioEntradaDados\bin\Debug\netcoreapp3.1\ExercicioEntradaDados.pdb
+C:\projetos\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\netcoreapp3.1\ExercicioEntradaDados.csprojAssemblyReference.cache
+C:\projetos\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\netcoreapp3.1\ExercicioEntradaDados.AssemblyInfoInputs.cache
+C:\projetos\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\netcoreapp3.1\ExercicioEntradaDados.AssemblyInfo.cs
+C:\projetos\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\netcoreapp3.1\ExercicioEntradaDados.dll
+C:\projetos\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\netcoreapp3.1\ExercicioEntradaDados.pdb

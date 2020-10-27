@@ -1,0 +1,13 @@
+C:\projetos\ExResolvidoLinQLambDa\ExResolvidoLinQLambDa\bin\Debug\netcoreapp3.1\ExResolvidoLinQLambDa.exe
+C:\projetos\ExResolvidoLinQLambDa\ExResolvidoLinQLambDa\bin\Debug\netcoreapp3.1\ExResolvidoLinQLambDa.deps.json
+C:\projetos\ExResolvidoLinQLambDa\ExResolvidoLinQLambDa\bin\Debug\netcoreapp3.1\ExResolvidoLinQLambDa.runtimeconfig.json
+C:\projetos\ExResolvidoLinQLambDa\ExResolvidoLinQLambDa\bin\Debug\netcoreapp3.1\ExResolvidoLinQLambDa.runtimeconfig.dev.json
+C:\projetos\ExResolvidoLinQLambDa\ExResolvidoLinQLambDa\bin\Debug\netcoreapp3.1\ExResolvidoLinQLambDa.dll
+C:\projetos\ExResolvidoLinQLambDa\ExResolvidoLinQLambDa\bin\Debug\netcoreapp3.1\ExResolvidoLinQLambDa.pdb
+C:\projetos\ExResolvidoLinQLambDa\ExResolvidoLinQLambDa\obj\Debug\netcoreapp3.1\ExResolvidoLinQLambDa.csprojAssemblyReference.cache
+C:\projetos\ExResolvidoLinQLambDa\ExResolvidoLinQLambDa\obj\Debug\netcoreapp3.1\ExResolvidoLinQLambDa.AssemblyInfoInputs.cache
+C:\projetos\ExResolvidoLinQLambDa\ExResolvidoLinQLambDa\obj\Debug\netcoreapp3.1\ExResolvidoLinQLambDa.AssemblyInfo.cs
+C:\projetos\ExResolvidoLinQLambDa\ExResolvidoLinQLambDa\obj\Debug\netcoreapp3.1\ExResolvidoLinQLambDa.csproj.CoreCompileInputs.cache
+C:\projetos\ExResolvidoLinQLambDa\ExResolvidoLinQLambDa\obj\Debug\netcoreapp3.1\ExResolvidoLinQLambDa.dll
+C:\projetos\ExResolvidoLinQLambDa\ExResolvidoLinQLambDa\obj\Debug\netcoreapp3.1\ExResolvidoLinQLambDa.pdb
+C:\projetos\ExResolvidoLinQLambDa\ExResolvidoLinQLambDa\obj\Debug\netcoreapp3.1\ExResolvidoLinQLambDa.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\projetos\PraticandoComposicao\PraticandoComposicao\bin\Debug\netcoreapp3.1\PraticandoComposicao.exe
+C:\projetos\PraticandoComposicao\PraticandoComposicao\bin\Debug\netcoreapp3.1\PraticandoComposicao.deps.json
+C:\projetos\PraticandoComposicao\PraticandoComposicao\bin\Debug\netcoreapp3.1\PraticandoComposicao.runtimeconfig.json
+C:\projetos\PraticandoComposicao\PraticandoComposicao\bin\Debug\netcoreapp3.1\PraticandoComposicao.runtimeconfig.dev.json
+C:\projetos\PraticandoComposicao\PraticandoComposicao\bin\Debug\netcoreapp3.1\PraticandoComposicao.dll
+C:\projetos\PraticandoComposicao\PraticandoComposicao\bin\Debug\netcoreapp3.1\PraticandoComposicao.pdb
+C:\projetos\PraticandoComposicao\PraticandoComposicao\obj\Debug\netcoreapp3.1\PraticandoComposicao.csprojAssemblyReference.cache
+C:\projetos\PraticandoComposicao\PraticandoComposicao\obj\Debug\netcoreapp3.1\PraticandoComposicao.csproj.CoreCompileInputs.cache
+C:\projetos\PraticandoComposicao\PraticandoComposicao\obj\Debug\netcoreapp3.1\PraticandoComposicao.AssemblyInfoInputs.cache
+C:\projetos\PraticandoComposicao\PraticandoComposicao\obj\Debug\netcoreapp3.1\PraticandoComposicao.AssemblyInfo.cs
+C:\projetos\PraticandoComposicao\PraticandoComposicao\obj\Debug\netcoreapp3.1\PraticandoComposicao.dll
+C:\projetos\PraticandoComposicao\PraticandoComposicao\obj\Debug\netcoreapp3.1\PraticandoComposicao.pdb
+C:\projetos\PraticandoComposicao\PraticandoComposicao\obj\Debug\netcoreapp3.1\PraticandoComposicao.genruntimeconfig.cache

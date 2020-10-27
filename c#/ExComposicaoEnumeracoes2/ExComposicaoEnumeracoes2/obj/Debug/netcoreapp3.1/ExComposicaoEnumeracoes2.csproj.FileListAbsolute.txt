@@ -1,0 +1,13 @@
+C:\projetos\ExComposicaoEnumeracoes2\ExComposicaoEnumeracoes2\bin\Debug\netcoreapp3.1\ExComposicaoEnumeracoes2.exe
+C:\projetos\ExComposicaoEnumeracoes2\ExComposicaoEnumeracoes2\bin\Debug\netcoreapp3.1\ExComposicaoEnumeracoes2.deps.json
+C:\projetos\ExComposicaoEnumeracoes2\ExComposicaoEnumeracoes2\bin\Debug\netcoreapp3.1\ExComposicaoEnumeracoes2.runtimeconfig.json
+C:\projetos\ExComposicaoEnumeracoes2\ExComposicaoEnumeracoes2\bin\Debug\netcoreapp3.1\ExComposicaoEnumeracoes2.runtimeconfig.dev.json
+C:\projetos\ExComposicaoEnumeracoes2\ExComposicaoEnumeracoes2\bin\Debug\netcoreapp3.1\ExComposicaoEnumeracoes2.dll
+C:\projetos\ExComposicaoEnumeracoes2\ExComposicaoEnumeracoes2\bin\Debug\netcoreapp3.1\ExComposicaoEnumeracoes2.pdb
+C:\projetos\ExComposicaoEnumeracoes2\ExComposicaoEnumeracoes2\obj\Debug\netcoreapp3.1\ExComposicaoEnumeracoes2.csprojAssemblyReference.cache
+C:\projetos\ExComposicaoEnumeracoes2\ExComposicaoEnumeracoes2\obj\Debug\netcoreapp3.1\ExComposicaoEnumeracoes2.csproj.CoreCompileInputs.cache
+C:\projetos\ExComposicaoEnumeracoes2\ExComposicaoEnumeracoes2\obj\Debug\netcoreapp3.1\ExComposicaoEnumeracoes2.AssemblyInfoInputs.cache
+C:\projetos\ExComposicaoEnumeracoes2\ExComposicaoEnumeracoes2\obj\Debug\netcoreapp3.1\ExComposicaoEnumeracoes2.AssemblyInfo.cs
+C:\projetos\ExComposicaoEnumeracoes2\ExComposicaoEnumeracoes2\obj\Debug\netcoreapp3.1\ExComposicaoEnumeracoes2.dll
+C:\projetos\ExComposicaoEnumeracoes2\ExComposicaoEnumeracoes2\obj\Debug\netcoreapp3.1\ExComposicaoEnumeracoes2.pdb
+C:\projetos\ExComposicaoEnumeracoes2\ExComposicaoEnumeracoes2\obj\Debug\netcoreapp3.1\ExComposicaoEnumeracoes2.genruntimeconfig.cache

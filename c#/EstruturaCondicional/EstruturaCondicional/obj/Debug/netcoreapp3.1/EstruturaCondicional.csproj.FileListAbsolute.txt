@@ -1,0 +1,11 @@
+C:\projetos\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.exe
+C:\projetos\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.deps.json
+C:\projetos\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.runtimeconfig.json
+C:\projetos\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.runtimeconfig.dev.json
+C:\projetos\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.dll
+C:\projetos\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.pdb
+C:\projetos\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.csprojAssemblyReference.cache
+C:\projetos\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.AssemblyInfoInputs.cache
+C:\projetos\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.AssemblyInfo.cs
+C:\projetos\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.dll
+C:\projetos\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.pdb

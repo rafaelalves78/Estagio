@@ -1,0 +1,13 @@
+C:\projetos\TipoReferenciaTipoValor\TipoReferenciaTipoValor\bin\Debug\netcoreapp3.1\TipoReferenciaTipoValor.exe
+C:\projetos\TipoReferenciaTipoValor\TipoReferenciaTipoValor\bin\Debug\netcoreapp3.1\TipoReferenciaTipoValor.deps.json
+C:\projetos\TipoReferenciaTipoValor\TipoReferenciaTipoValor\bin\Debug\netcoreapp3.1\TipoReferenciaTipoValor.runtimeconfig.json
+C:\projetos\TipoReferenciaTipoValor\TipoReferenciaTipoValor\bin\Debug\netcoreapp3.1\TipoReferenciaTipoValor.runtimeconfig.dev.json
+C:\projetos\TipoReferenciaTipoValor\TipoReferenciaTipoValor\bin\Debug\netcoreapp3.1\TipoReferenciaTipoValor.dll
+C:\projetos\TipoReferenciaTipoValor\TipoReferenciaTipoValor\bin\Debug\netcoreapp3.1\TipoReferenciaTipoValor.pdb
+C:\projetos\TipoReferenciaTipoValor\TipoReferenciaTipoValor\obj\Debug\netcoreapp3.1\TipoReferenciaTipoValor.csprojAssemblyReference.cache
+C:\projetos\TipoReferenciaTipoValor\TipoReferenciaTipoValor\obj\Debug\netcoreapp3.1\TipoReferenciaTipoValor.csproj.CoreCompileInputs.cache
+C:\projetos\TipoReferenciaTipoValor\TipoReferenciaTipoValor\obj\Debug\netcoreapp3.1\TipoReferenciaTipoValor.AssemblyInfoInputs.cache
+C:\projetos\TipoReferenciaTipoValor\TipoReferenciaTipoValor\obj\Debug\netcoreapp3.1\TipoReferenciaTipoValor.AssemblyInfo.cs
+C:\projetos\TipoReferenciaTipoValor\TipoReferenciaTipoValor\obj\Debug\netcoreapp3.1\TipoReferenciaTipoValor.dll
+C:\projetos\TipoReferenciaTipoValor\TipoReferenciaTipoValor\obj\Debug\netcoreapp3.1\TipoReferenciaTipoValor.pdb
+C:\projetos\TipoReferenciaTipoValor\TipoReferenciaTipoValor\obj\Debug\netcoreapp3.1\TipoReferenciaTipoValor.genruntimeconfig.cache

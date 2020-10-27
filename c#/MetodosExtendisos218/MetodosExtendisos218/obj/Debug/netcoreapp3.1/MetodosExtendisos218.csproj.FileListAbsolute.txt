@@ -1,0 +1,13 @@
+C:\projetos\MetodosExtendisos218\MetodosExtendisos218\bin\Debug\netcoreapp3.1\MetodosExtendisos218.exe
+C:\projetos\MetodosExtendisos218\MetodosExtendisos218\bin\Debug\netcoreapp3.1\MetodosExtendisos218.deps.json
+C:\projetos\MetodosExtendisos218\MetodosExtendisos218\bin\Debug\netcoreapp3.1\MetodosExtendisos218.runtimeconfig.json
+C:\projetos\MetodosExtendisos218\MetodosExtendisos218\bin\Debug\netcoreapp3.1\MetodosExtendisos218.runtimeconfig.dev.json
+C:\projetos\MetodosExtendisos218\MetodosExtendisos218\bin\Debug\netcoreapp3.1\MetodosExtendisos218.dll
+C:\projetos\MetodosExtendisos218\MetodosExtendisos218\bin\Debug\netcoreapp3.1\MetodosExtendisos218.pdb
+C:\projetos\MetodosExtendisos218\MetodosExtendisos218\obj\Debug\netcoreapp3.1\MetodosExtendisos218.csprojAssemblyReference.cache
+C:\projetos\MetodosExtendisos218\MetodosExtendisos218\obj\Debug\netcoreapp3.1\MetodosExtendisos218.AssemblyInfoInputs.cache
+C:\projetos\MetodosExtendisos218\MetodosExtendisos218\obj\Debug\netcoreapp3.1\MetodosExtendisos218.AssemblyInfo.cs
+C:\projetos\MetodosExtendisos218\MetodosExtendisos218\obj\Debug\netcoreapp3.1\MetodosExtendisos218.csproj.CoreCompileInputs.cache
+C:\projetos\MetodosExtendisos218\MetodosExtendisos218\obj\Debug\netcoreapp3.1\MetodosExtendisos218.dll
+C:\projetos\MetodosExtendisos218\MetodosExtendisos218\obj\Debug\netcoreapp3.1\MetodosExtendisos218.pdb
+C:\projetos\MetodosExtendisos218\MetodosExtendisos218\obj\Debug\netcoreapp3.1\MetodosExtendisos218.genruntimeconfig.cache

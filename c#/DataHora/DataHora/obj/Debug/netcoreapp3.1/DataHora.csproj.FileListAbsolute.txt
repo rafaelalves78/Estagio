@@ -1,0 +1,13 @@
+C:\projetos\DataHora\DataHora\bin\Debug\netcoreapp3.1\DataHora.exe
+C:\projetos\DataHora\DataHora\bin\Debug\netcoreapp3.1\DataHora.deps.json
+C:\projetos\DataHora\DataHora\bin\Debug\netcoreapp3.1\DataHora.runtimeconfig.json
+C:\projetos\DataHora\DataHora\bin\Debug\netcoreapp3.1\DataHora.runtimeconfig.dev.json
+C:\projetos\DataHora\DataHora\bin\Debug\netcoreapp3.1\DataHora.dll
+C:\projetos\DataHora\DataHora\bin\Debug\netcoreapp3.1\DataHora.pdb
+C:\projetos\DataHora\DataHora\obj\Debug\netcoreapp3.1\DataHora.csprojAssemblyReference.cache
+C:\projetos\DataHora\DataHora\obj\Debug\netcoreapp3.1\DataHora.csproj.CoreCompileInputs.cache
+C:\projetos\DataHora\DataHora\obj\Debug\netcoreapp3.1\DataHora.AssemblyInfoInputs.cache
+C:\projetos\DataHora\DataHora\obj\Debug\netcoreapp3.1\DataHora.AssemblyInfo.cs
+C:\projetos\DataHora\DataHora\obj\Debug\netcoreapp3.1\DataHora.dll
+C:\projetos\DataHora\DataHora\obj\Debug\netcoreapp3.1\DataHora.pdb
+C:\projetos\DataHora\DataHora\obj\Debug\netcoreapp3.1\DataHora.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\projetos\SegundoPrograma\SegundoPrograma\bin\Debug\netcoreapp3.1\SegundoPrograma.exe
+C:\projetos\SegundoPrograma\SegundoPrograma\bin\Debug\netcoreapp3.1\SegundoPrograma.deps.json
+C:\projetos\SegundoPrograma\SegundoPrograma\bin\Debug\netcoreapp3.1\SegundoPrograma.runtimeconfig.json
+C:\projetos\SegundoPrograma\SegundoPrograma\bin\Debug\netcoreapp3.1\SegundoPrograma.runtimeconfig.dev.json
+C:\projetos\SegundoPrograma\SegundoPrograma\bin\Debug\netcoreapp3.1\SegundoPrograma.dll
+C:\projetos\SegundoPrograma\SegundoPrograma\bin\Debug\netcoreapp3.1\SegundoPrograma.pdb
+C:\projetos\SegundoPrograma\SegundoPrograma\obj\Debug\netcoreapp3.1\SegundoPrograma.csprojAssemblyReference.cache
+C:\projetos\SegundoPrograma\SegundoPrograma\obj\Debug\netcoreapp3.1\SegundoPrograma.AssemblyInfoInputs.cache
+C:\projetos\SegundoPrograma\SegundoPrograma\obj\Debug\netcoreapp3.1\SegundoPrograma.AssemblyInfo.cs
+C:\projetos\SegundoPrograma\SegundoPrograma\obj\Debug\netcoreapp3.1\SegundoPrograma.dll
+C:\projetos\SegundoPrograma\SegundoPrograma\obj\Debug\netcoreapp3.1\SegundoPrograma.pdb

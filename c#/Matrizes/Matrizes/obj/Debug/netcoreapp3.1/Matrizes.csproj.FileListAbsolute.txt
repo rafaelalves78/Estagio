@@ -1,0 +1,13 @@
+C:\projetos\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.exe
+C:\projetos\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.deps.json
+C:\projetos\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.runtimeconfig.json
+C:\projetos\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.runtimeconfig.dev.json
+C:\projetos\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.dll
+C:\projetos\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.pdb
+C:\projetos\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.csprojAssemblyReference.cache
+C:\projetos\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.csproj.CoreCompileInputs.cache
+C:\projetos\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.AssemblyInfoInputs.cache
+C:\projetos\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.AssemblyInfo.cs
+C:\projetos\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.dll
+C:\projetos\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.pdb
+C:\projetos\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.genruntimeconfig.cache

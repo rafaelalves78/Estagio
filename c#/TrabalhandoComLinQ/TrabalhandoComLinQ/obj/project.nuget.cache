@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qBzdsymcPVNuk/8FaVeQYwbNrna2yRoLjP5Pf5GlPMvn7QjYmSog4QmwhNBCc/4ttsDwUp+1ciFB5Y8Z1eOflQ==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\TrabalhandoComLinQ\\TrabalhandoComLinQ\\TrabalhandoComLinQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

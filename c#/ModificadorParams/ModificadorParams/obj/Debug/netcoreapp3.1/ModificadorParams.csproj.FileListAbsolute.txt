@@ -1,0 +1,12 @@
+C:\projetos\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.csproj.CoreCompileInputs.cache
+C:\projetos\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.AssemblyInfoInputs.cache
+C:\projetos\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.AssemblyInfo.cs
+C:\projetos\ModificadorParams\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.exe
+C:\projetos\ModificadorParams\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.deps.json
+C:\projetos\ModificadorParams\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.runtimeconfig.json
+C:\projetos\ModificadorParams\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.runtimeconfig.dev.json
+C:\projetos\ModificadorParams\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.dll
+C:\projetos\ModificadorParams\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.pdb
+C:\projetos\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.dll
+C:\projetos\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.pdb
+C:\projetos\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.genruntimeconfig.cache

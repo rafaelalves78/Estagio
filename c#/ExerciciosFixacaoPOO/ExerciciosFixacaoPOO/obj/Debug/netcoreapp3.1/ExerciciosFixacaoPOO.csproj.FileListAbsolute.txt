@@ -1,0 +1,13 @@
+C:\projetos\ExerciciosFixacaoPOO\ExerciciosFixacaoPOO\bin\Debug\netcoreapp3.1\ExerciciosFixacaoPOO.exe
+C:\projetos\ExerciciosFixacaoPOO\ExerciciosFixacaoPOO\bin\Debug\netcoreapp3.1\ExerciciosFixacaoPOO.deps.json
+C:\projetos\ExerciciosFixacaoPOO\ExerciciosFixacaoPOO\bin\Debug\netcoreapp3.1\ExerciciosFixacaoPOO.runtimeconfig.json
+C:\projetos\ExerciciosFixacaoPOO\ExerciciosFixacaoPOO\bin\Debug\netcoreapp3.1\ExerciciosFixacaoPOO.runtimeconfig.dev.json
+C:\projetos\ExerciciosFixacaoPOO\ExerciciosFixacaoPOO\bin\Debug\netcoreapp3.1\ExerciciosFixacaoPOO.dll
+C:\projetos\ExerciciosFixacaoPOO\ExerciciosFixacaoPOO\bin\Debug\netcoreapp3.1\ExerciciosFixacaoPOO.pdb
+C:\projetos\ExerciciosFixacaoPOO\ExerciciosFixacaoPOO\obj\Debug\netcoreapp3.1\ExerciciosFixacaoPOO.csprojAssemblyReference.cache
+C:\projetos\ExerciciosFixacaoPOO\ExerciciosFixacaoPOO\obj\Debug\netcoreapp3.1\ExerciciosFixacaoPOO.csproj.CoreCompileInputs.cache
+C:\projetos\ExerciciosFixacaoPOO\ExerciciosFixacaoPOO\obj\Debug\netcoreapp3.1\ExerciciosFixacaoPOO.AssemblyInfoInputs.cache
+C:\projetos\ExerciciosFixacaoPOO\ExerciciosFixacaoPOO\obj\Debug\netcoreapp3.1\ExerciciosFixacaoPOO.AssemblyInfo.cs
+C:\projetos\ExerciciosFixacaoPOO\ExerciciosFixacaoPOO\obj\Debug\netcoreapp3.1\ExerciciosFixacaoPOO.dll
+C:\projetos\ExerciciosFixacaoPOO\ExerciciosFixacaoPOO\obj\Debug\netcoreapp3.1\ExerciciosFixacaoPOO.pdb
+C:\projetos\ExerciciosFixacaoPOO\ExerciciosFixacaoPOO\obj\Debug\netcoreapp3.1\ExerciciosFixacaoPOO.genruntimeconfig.cache

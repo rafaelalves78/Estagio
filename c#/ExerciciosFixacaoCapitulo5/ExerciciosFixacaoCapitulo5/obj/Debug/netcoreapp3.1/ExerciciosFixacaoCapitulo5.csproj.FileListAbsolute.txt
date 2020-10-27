@@ -1,0 +1,13 @@
+C:\projetos\ExerciciosFixacaoCapitulo5\ExerciciosFixacaoCapitulo5\bin\Debug\netcoreapp3.1\ExerciciosFixacaoCapitulo5.exe
+C:\projetos\ExerciciosFixacaoCapitulo5\ExerciciosFixacaoCapitulo5\bin\Debug\netcoreapp3.1\ExerciciosFixacaoCapitulo5.deps.json
+C:\projetos\ExerciciosFixacaoCapitulo5\ExerciciosFixacaoCapitulo5\bin\Debug\netcoreapp3.1\ExerciciosFixacaoCapitulo5.runtimeconfig.json
+C:\projetos\ExerciciosFixacaoCapitulo5\ExerciciosFixacaoCapitulo5\bin\Debug\netcoreapp3.1\ExerciciosFixacaoCapitulo5.runtimeconfig.dev.json
+C:\projetos\ExerciciosFixacaoCapitulo5\ExerciciosFixacaoCapitulo5\bin\Debug\netcoreapp3.1\ExerciciosFixacaoCapitulo5.dll
+C:\projetos\ExerciciosFixacaoCapitulo5\ExerciciosFixacaoCapitulo5\bin\Debug\netcoreapp3.1\ExerciciosFixacaoCapitulo5.pdb
+C:\projetos\ExerciciosFixacaoCapitulo5\ExerciciosFixacaoCapitulo5\obj\Debug\netcoreapp3.1\ExerciciosFixacaoCapitulo5.csprojAssemblyReference.cache
+C:\projetos\ExerciciosFixacaoCapitulo5\ExerciciosFixacaoCapitulo5\obj\Debug\netcoreapp3.1\ExerciciosFixacaoCapitulo5.csproj.CoreCompileInputs.cache
+C:\projetos\ExerciciosFixacaoCapitulo5\ExerciciosFixacaoCapitulo5\obj\Debug\netcoreapp3.1\ExerciciosFixacaoCapitulo5.AssemblyInfoInputs.cache
+C:\projetos\ExerciciosFixacaoCapitulo5\ExerciciosFixacaoCapitulo5\obj\Debug\netcoreapp3.1\ExerciciosFixacaoCapitulo5.AssemblyInfo.cs
+C:\projetos\ExerciciosFixacaoCapitulo5\ExerciciosFixacaoCapitulo5\obj\Debug\netcoreapp3.1\ExerciciosFixacaoCapitulo5.dll
+C:\projetos\ExerciciosFixacaoCapitulo5\ExerciciosFixacaoCapitulo5\obj\Debug\netcoreapp3.1\ExerciciosFixacaoCapitulo5.pdb
+C:\projetos\ExerciciosFixacaoCapitulo5\ExerciciosFixacaoCapitulo5\obj\Debug\netcoreapp3.1\ExerciciosFixacaoCapitulo5.genruntimeconfig.cache

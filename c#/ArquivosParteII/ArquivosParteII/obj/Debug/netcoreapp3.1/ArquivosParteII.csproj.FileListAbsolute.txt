@@ -1,0 +1,13 @@
+C:\projetos\ArquivosParteII\ArquivosParteII\bin\Debug\netcoreapp3.1\ArquivosParteII.exe
+C:\projetos\ArquivosParteII\ArquivosParteII\bin\Debug\netcoreapp3.1\ArquivosParteII.deps.json
+C:\projetos\ArquivosParteII\ArquivosParteII\bin\Debug\netcoreapp3.1\ArquivosParteII.runtimeconfig.json
+C:\projetos\ArquivosParteII\ArquivosParteII\bin\Debug\netcoreapp3.1\ArquivosParteII.runtimeconfig.dev.json
+C:\projetos\ArquivosParteII\ArquivosParteII\bin\Debug\netcoreapp3.1\ArquivosParteII.dll
+C:\projetos\ArquivosParteII\ArquivosParteII\bin\Debug\netcoreapp3.1\ArquivosParteII.pdb
+C:\projetos\ArquivosParteII\ArquivosParteII\obj\Debug\netcoreapp3.1\ArquivosParteII.csprojAssemblyReference.cache
+C:\projetos\ArquivosParteII\ArquivosParteII\obj\Debug\netcoreapp3.1\ArquivosParteII.csproj.CoreCompileInputs.cache
+C:\projetos\ArquivosParteII\ArquivosParteII\obj\Debug\netcoreapp3.1\ArquivosParteII.AssemblyInfoInputs.cache
+C:\projetos\ArquivosParteII\ArquivosParteII\obj\Debug\netcoreapp3.1\ArquivosParteII.AssemblyInfo.cs
+C:\projetos\ArquivosParteII\ArquivosParteII\obj\Debug\netcoreapp3.1\ArquivosParteII.dll
+C:\projetos\ArquivosParteII\ArquivosParteII\obj\Debug\netcoreapp3.1\ArquivosParteII.pdb
+C:\projetos\ArquivosParteII\ArquivosParteII\obj\Debug\netcoreapp3.1\ArquivosParteII.genruntimeconfig.cache

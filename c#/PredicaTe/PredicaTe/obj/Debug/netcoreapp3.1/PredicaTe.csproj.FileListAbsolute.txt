@@ -1,0 +1,13 @@
+C:\projetos\PredicaTe\PredicaTe\bin\Debug\netcoreapp3.1\PredicaTe.exe
+C:\projetos\PredicaTe\PredicaTe\bin\Debug\netcoreapp3.1\PredicaTe.deps.json
+C:\projetos\PredicaTe\PredicaTe\bin\Debug\netcoreapp3.1\PredicaTe.runtimeconfig.json
+C:\projetos\PredicaTe\PredicaTe\bin\Debug\netcoreapp3.1\PredicaTe.runtimeconfig.dev.json
+C:\projetos\PredicaTe\PredicaTe\bin\Debug\netcoreapp3.1\PredicaTe.dll
+C:\projetos\PredicaTe\PredicaTe\bin\Debug\netcoreapp3.1\PredicaTe.pdb
+C:\projetos\PredicaTe\PredicaTe\obj\Debug\netcoreapp3.1\PredicaTe.csprojAssemblyReference.cache
+C:\projetos\PredicaTe\PredicaTe\obj\Debug\netcoreapp3.1\PredicaTe.AssemblyInfoInputs.cache
+C:\projetos\PredicaTe\PredicaTe\obj\Debug\netcoreapp3.1\PredicaTe.AssemblyInfo.cs
+C:\projetos\PredicaTe\PredicaTe\obj\Debug\netcoreapp3.1\PredicaTe.csproj.CoreCompileInputs.cache
+C:\projetos\PredicaTe\PredicaTe\obj\Debug\netcoreapp3.1\PredicaTe.dll
+C:\projetos\PredicaTe\PredicaTe\obj\Debug\netcoreapp3.1\PredicaTe.pdb
+C:\projetos\PredicaTe\PredicaTe\obj\Debug\netcoreapp3.1\PredicaTe.genruntimeconfig.cache

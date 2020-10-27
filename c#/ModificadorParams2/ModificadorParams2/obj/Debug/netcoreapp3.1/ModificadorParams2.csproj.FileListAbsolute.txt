@@ -1,0 +1,13 @@
+C:\projetos\ModificadorParams2\ModificadorParams2\obj\Debug\netcoreapp3.1\ModificadorParams2.csprojAssemblyReference.cache
+C:\projetos\ModificadorParams2\ModificadorParams2\obj\Debug\netcoreapp3.1\ModificadorParams2.csproj.CoreCompileInputs.cache
+C:\projetos\ModificadorParams2\ModificadorParams2\obj\Debug\netcoreapp3.1\ModificadorParams2.AssemblyInfoInputs.cache
+C:\projetos\ModificadorParams2\ModificadorParams2\obj\Debug\netcoreapp3.1\ModificadorParams2.AssemblyInfo.cs
+C:\projetos\ModificadorParams2\ModificadorParams2\bin\Debug\netcoreapp3.1\ModificadorParams2.exe
+C:\projetos\ModificadorParams2\ModificadorParams2\bin\Debug\netcoreapp3.1\ModificadorParams2.deps.json
+C:\projetos\ModificadorParams2\ModificadorParams2\bin\Debug\netcoreapp3.1\ModificadorParams2.runtimeconfig.json
+C:\projetos\ModificadorParams2\ModificadorParams2\bin\Debug\netcoreapp3.1\ModificadorParams2.runtimeconfig.dev.json
+C:\projetos\ModificadorParams2\ModificadorParams2\bin\Debug\netcoreapp3.1\ModificadorParams2.dll
+C:\projetos\ModificadorParams2\ModificadorParams2\bin\Debug\netcoreapp3.1\ModificadorParams2.pdb
+C:\projetos\ModificadorParams2\ModificadorParams2\obj\Debug\netcoreapp3.1\ModificadorParams2.dll
+C:\projetos\ModificadorParams2\ModificadorParams2\obj\Debug\netcoreapp3.1\ModificadorParams2.pdb
+C:\projetos\ModificadorParams2\ModificadorParams2\obj\Debug\netcoreapp3.1\ModificadorParams2.genruntimeconfig.cache

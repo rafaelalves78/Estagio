@@ -1,0 +1,13 @@
+C:\projetos\TrabalhandoComArquivos\TrabalhandoComArquivos\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos.exe
+C:\projetos\TrabalhandoComArquivos\TrabalhandoComArquivos\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos.deps.json
+C:\projetos\TrabalhandoComArquivos\TrabalhandoComArquivos\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos.runtimeconfig.json
+C:\projetos\TrabalhandoComArquivos\TrabalhandoComArquivos\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos.runtimeconfig.dev.json
+C:\projetos\TrabalhandoComArquivos\TrabalhandoComArquivos\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos.dll
+C:\projetos\TrabalhandoComArquivos\TrabalhandoComArquivos\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos.pdb
+C:\projetos\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos.csprojAssemblyReference.cache
+C:\projetos\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos.csproj.CoreCompileInputs.cache
+C:\projetos\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos.AssemblyInfoInputs.cache
+C:\projetos\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos.AssemblyInfo.cs
+C:\projetos\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos.dll
+C:\projetos\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos.pdb
+C:\projetos\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PredicaTe/1.0.0": {
+        "runtime": {
+          "PredicaTe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PredicaTe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

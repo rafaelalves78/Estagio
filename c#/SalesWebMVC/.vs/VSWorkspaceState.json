@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SalesWebMVC",
+    "\\SalesWebMVC\\Models\\ViewModels",
+    "\\SalesWebMVC\\obj\\Debug",
+    "\\SalesWebMVC\\obj\\Debug\\netcoreapp2.1",
+    "\\SalesWebMVC\\Properties",
+    "\\SalesWebMVC\\wwwroot",
+    "\\SalesWebMVC\\wwwroot\\js"
+  ],
+  "SelectedNode": "\\SalesWebMVC\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}

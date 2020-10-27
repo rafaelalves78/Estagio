@@ -1,0 +1,11 @@
+C:\projetos\ExerciciosPropostosFor\ExerciciosPropostosFor\bin\Debug\netcoreapp3.1\ExerciciosPropostosFor.exe
+C:\projetos\ExerciciosPropostosFor\ExerciciosPropostosFor\bin\Debug\netcoreapp3.1\ExerciciosPropostosFor.deps.json
+C:\projetos\ExerciciosPropostosFor\ExerciciosPropostosFor\bin\Debug\netcoreapp3.1\ExerciciosPropostosFor.runtimeconfig.json
+C:\projetos\ExerciciosPropostosFor\ExerciciosPropostosFor\bin\Debug\netcoreapp3.1\ExerciciosPropostosFor.runtimeconfig.dev.json
+C:\projetos\ExerciciosPropostosFor\ExerciciosPropostosFor\bin\Debug\netcoreapp3.1\ExerciciosPropostosFor.dll
+C:\projetos\ExerciciosPropostosFor\ExerciciosPropostosFor\bin\Debug\netcoreapp3.1\ExerciciosPropostosFor.pdb
+C:\projetos\ExerciciosPropostosFor\ExerciciosPropostosFor\obj\Debug\netcoreapp3.1\ExerciciosPropostosFor.csprojAssemblyReference.cache
+C:\projetos\ExerciciosPropostosFor\ExerciciosPropostosFor\obj\Debug\netcoreapp3.1\ExerciciosPropostosFor.AssemblyInfoInputs.cache
+C:\projetos\ExerciciosPropostosFor\ExerciciosPropostosFor\obj\Debug\netcoreapp3.1\ExerciciosPropostosFor.AssemblyInfo.cs
+C:\projetos\ExerciciosPropostosFor\ExerciciosPropostosFor\obj\Debug\netcoreapp3.1\ExerciciosPropostosFor.dll
+C:\projetos\ExerciciosPropostosFor\ExerciciosPropostosFor\obj\Debug\netcoreapp3.1\ExerciciosPropostosFor.pdb

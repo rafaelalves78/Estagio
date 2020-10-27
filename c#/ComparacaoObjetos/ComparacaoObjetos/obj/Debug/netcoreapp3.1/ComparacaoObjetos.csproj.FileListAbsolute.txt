@@ -1,0 +1,13 @@
+C:\projetos\ComparacaoObjetos\ComparacaoObjetos\bin\Debug\netcoreapp3.1\ComparacaoObjetos.exe
+C:\projetos\ComparacaoObjetos\ComparacaoObjetos\bin\Debug\netcoreapp3.1\ComparacaoObjetos.deps.json
+C:\projetos\ComparacaoObjetos\ComparacaoObjetos\bin\Debug\netcoreapp3.1\ComparacaoObjetos.runtimeconfig.json
+C:\projetos\ComparacaoObjetos\ComparacaoObjetos\bin\Debug\netcoreapp3.1\ComparacaoObjetos.runtimeconfig.dev.json
+C:\projetos\ComparacaoObjetos\ComparacaoObjetos\bin\Debug\netcoreapp3.1\ComparacaoObjetos.dll
+C:\projetos\ComparacaoObjetos\ComparacaoObjetos\bin\Debug\netcoreapp3.1\ComparacaoObjetos.pdb
+C:\projetos\ComparacaoObjetos\ComparacaoObjetos\obj\Debug\netcoreapp3.1\ComparacaoObjetos.csprojAssemblyReference.cache
+C:\projetos\ComparacaoObjetos\ComparacaoObjetos\obj\Debug\netcoreapp3.1\ComparacaoObjetos.csproj.CoreCompileInputs.cache
+C:\projetos\ComparacaoObjetos\ComparacaoObjetos\obj\Debug\netcoreapp3.1\ComparacaoObjetos.AssemblyInfoInputs.cache
+C:\projetos\ComparacaoObjetos\ComparacaoObjetos\obj\Debug\netcoreapp3.1\ComparacaoObjetos.AssemblyInfo.cs
+C:\projetos\ComparacaoObjetos\ComparacaoObjetos\obj\Debug\netcoreapp3.1\ComparacaoObjetos.dll
+C:\projetos\ComparacaoObjetos\ComparacaoObjetos\obj\Debug\netcoreapp3.1\ComparacaoObjetos.pdb
+C:\projetos\ComparacaoObjetos\ComparacaoObjetos\obj\Debug\netcoreapp3.1\ComparacaoObjetos.genruntimeconfig.cache

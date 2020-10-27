@@ -1,0 +1,13 @@
+C:\projetos\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.exe
+C:\projetos\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.deps.json
+C:\projetos\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.runtimeconfig.json
+C:\projetos\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.runtimeconfig.dev.json
+C:\projetos\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.dll
+C:\projetos\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\netcoreapp3.1\ExcecoesPersonalizadas.pdb
+C:\projetos\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.csprojAssemblyReference.cache
+C:\projetos\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\projetos\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.AssemblyInfoInputs.cache
+C:\projetos\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.AssemblyInfo.cs
+C:\projetos\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.dll
+C:\projetos\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.pdb
+C:\projetos\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\netcoreapp3.1\ExcecoesPersonalizadas.genruntimeconfig.cache

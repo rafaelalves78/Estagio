@@ -1,0 +1,13 @@
+C:\projetos\Enterprise\Enterprise\bin\Debug\netcoreapp3.1\Enterprise.exe
+C:\projetos\Enterprise\Enterprise\bin\Debug\netcoreapp3.1\Enterprise.deps.json
+C:\projetos\Enterprise\Enterprise\bin\Debug\netcoreapp3.1\Enterprise.runtimeconfig.json
+C:\projetos\Enterprise\Enterprise\bin\Debug\netcoreapp3.1\Enterprise.runtimeconfig.dev.json
+C:\projetos\Enterprise\Enterprise\bin\Debug\netcoreapp3.1\Enterprise.dll
+C:\projetos\Enterprise\Enterprise\bin\Debug\netcoreapp3.1\Enterprise.pdb
+C:\projetos\Enterprise\Enterprise\obj\Debug\netcoreapp3.1\Enterprise.csprojAssemblyReference.cache
+C:\projetos\Enterprise\Enterprise\obj\Debug\netcoreapp3.1\Enterprise.csproj.CoreCompileInputs.cache
+C:\projetos\Enterprise\Enterprise\obj\Debug\netcoreapp3.1\Enterprise.AssemblyInfoInputs.cache
+C:\projetos\Enterprise\Enterprise\obj\Debug\netcoreapp3.1\Enterprise.AssemblyInfo.cs
+C:\projetos\Enterprise\Enterprise\obj\Debug\netcoreapp3.1\Enterprise.dll
+C:\projetos\Enterprise\Enterprise\obj\Debug\netcoreapp3.1\Enterprise.pdb
+C:\projetos\Enterprise\Enterprise\obj\Debug\netcoreapp3.1\Enterprise.genruntimeconfig.cache

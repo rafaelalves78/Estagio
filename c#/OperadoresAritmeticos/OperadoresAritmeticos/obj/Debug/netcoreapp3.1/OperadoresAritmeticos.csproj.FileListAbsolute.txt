@@ -1,0 +1,10 @@
+C:\projetos\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\netcoreapp3.1\OperadoresAritmeticos.exe
+C:\projetos\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\netcoreapp3.1\OperadoresAritmeticos.deps.json
+C:\projetos\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\netcoreapp3.1\OperadoresAritmeticos.runtimeconfig.json
+C:\projetos\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\netcoreapp3.1\OperadoresAritmeticos.runtimeconfig.dev.json
+C:\projetos\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\netcoreapp3.1\OperadoresAritmeticos.dll
+C:\projetos\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\netcoreapp3.1\OperadoresAritmeticos.pdb
+C:\projetos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\netcoreapp3.1\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\projetos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\netcoreapp3.1\OperadoresAritmeticos.AssemblyInfo.cs
+C:\projetos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\netcoreapp3.1\OperadoresAritmeticos.dll
+C:\projetos\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\netcoreapp3.1\OperadoresAritmeticos.pdb

@@ -1,0 +1,11 @@
+C:\projetos\ExerciciosPropostosWhile\ExerciciosPropostosWhile\bin\Debug\netcoreapp3.1\ExerciciosPropostosWhile.exe
+C:\projetos\ExerciciosPropostosWhile\ExerciciosPropostosWhile\bin\Debug\netcoreapp3.1\ExerciciosPropostosWhile.deps.json
+C:\projetos\ExerciciosPropostosWhile\ExerciciosPropostosWhile\bin\Debug\netcoreapp3.1\ExerciciosPropostosWhile.runtimeconfig.json
+C:\projetos\ExerciciosPropostosWhile\ExerciciosPropostosWhile\bin\Debug\netcoreapp3.1\ExerciciosPropostosWhile.runtimeconfig.dev.json
+C:\projetos\ExerciciosPropostosWhile\ExerciciosPropostosWhile\bin\Debug\netcoreapp3.1\ExerciciosPropostosWhile.dll
+C:\projetos\ExerciciosPropostosWhile\ExerciciosPropostosWhile\bin\Debug\netcoreapp3.1\ExerciciosPropostosWhile.pdb
+C:\projetos\ExerciciosPropostosWhile\ExerciciosPropostosWhile\obj\Debug\netcoreapp3.1\ExerciciosPropostosWhile.csprojAssemblyReference.cache
+C:\projetos\ExerciciosPropostosWhile\ExerciciosPropostosWhile\obj\Debug\netcoreapp3.1\ExerciciosPropostosWhile.AssemblyInfoInputs.cache
+C:\projetos\ExerciciosPropostosWhile\ExerciciosPropostosWhile\obj\Debug\netcoreapp3.1\ExerciciosPropostosWhile.AssemblyInfo.cs
+C:\projetos\ExerciciosPropostosWhile\ExerciciosPropostosWhile\obj\Debug\netcoreapp3.1\ExerciciosPropostosWhile.dll
+C:\projetos\ExerciciosPropostosWhile\ExerciciosPropostosWhile\obj\Debug\netcoreapp3.1\ExerciciosPropostosWhile.pdb

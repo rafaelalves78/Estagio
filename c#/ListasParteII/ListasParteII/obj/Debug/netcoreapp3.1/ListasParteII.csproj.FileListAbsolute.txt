@@ -1,0 +1,13 @@
+C:\projetos\ListasParteII\ListasParteII\bin\Debug\netcoreapp3.1\ListasParteII.exe
+C:\projetos\ListasParteII\ListasParteII\bin\Debug\netcoreapp3.1\ListasParteII.deps.json
+C:\projetos\ListasParteII\ListasParteII\bin\Debug\netcoreapp3.1\ListasParteII.runtimeconfig.json
+C:\projetos\ListasParteII\ListasParteII\bin\Debug\netcoreapp3.1\ListasParteII.runtimeconfig.dev.json
+C:\projetos\ListasParteII\ListasParteII\bin\Debug\netcoreapp3.1\ListasParteII.dll
+C:\projetos\ListasParteII\ListasParteII\bin\Debug\netcoreapp3.1\ListasParteII.pdb
+C:\projetos\ListasParteII\ListasParteII\obj\Debug\netcoreapp3.1\ListasParteII.csprojAssemblyReference.cache
+C:\projetos\ListasParteII\ListasParteII\obj\Debug\netcoreapp3.1\ListasParteII.csproj.CoreCompileInputs.cache
+C:\projetos\ListasParteII\ListasParteII\obj\Debug\netcoreapp3.1\ListasParteII.AssemblyInfoInputs.cache
+C:\projetos\ListasParteII\ListasParteII\obj\Debug\netcoreapp3.1\ListasParteII.AssemblyInfo.cs
+C:\projetos\ListasParteII\ListasParteII\obj\Debug\netcoreapp3.1\ListasParteII.dll
+C:\projetos\ListasParteII\ListasParteII\obj\Debug\netcoreapp3.1\ListasParteII.pdb
+C:\projetos\ListasParteII\ListasParteII\obj\Debug\netcoreapp3.1\ListasParteII.genruntimeconfig.cache

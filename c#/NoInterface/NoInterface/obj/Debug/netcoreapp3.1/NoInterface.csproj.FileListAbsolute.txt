@@ -1,0 +1,13 @@
+C:\projetos\NoInterface\NoInterface\bin\Debug\netcoreapp3.1\NoInterface.exe
+C:\projetos\NoInterface\NoInterface\bin\Debug\netcoreapp3.1\NoInterface.deps.json
+C:\projetos\NoInterface\NoInterface\bin\Debug\netcoreapp3.1\NoInterface.runtimeconfig.json
+C:\projetos\NoInterface\NoInterface\bin\Debug\netcoreapp3.1\NoInterface.runtimeconfig.dev.json
+C:\projetos\NoInterface\NoInterface\bin\Debug\netcoreapp3.1\NoInterface.dll
+C:\projetos\NoInterface\NoInterface\bin\Debug\netcoreapp3.1\NoInterface.pdb
+C:\projetos\NoInterface\NoInterface\obj\Debug\netcoreapp3.1\NoInterface.csprojAssemblyReference.cache
+C:\projetos\NoInterface\NoInterface\obj\Debug\netcoreapp3.1\NoInterface.csproj.CoreCompileInputs.cache
+C:\projetos\NoInterface\NoInterface\obj\Debug\netcoreapp3.1\NoInterface.AssemblyInfoInputs.cache
+C:\projetos\NoInterface\NoInterface\obj\Debug\netcoreapp3.1\NoInterface.AssemblyInfo.cs
+C:\projetos\NoInterface\NoInterface\obj\Debug\netcoreapp3.1\NoInterface.dll
+C:\projetos\NoInterface\NoInterface\obj\Debug\netcoreapp3.1\NoInterface.pdb
+C:\projetos\NoInterface\NoInterface\obj\Debug\netcoreapp3.1\NoInterface.genruntimeconfig.cache

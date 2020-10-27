@@ -1,0 +1,13 @@
+C:\projetos\GEnerics\GEnerics\bin\Debug\netcoreapp3.1\GEnerics.exe
+C:\projetos\GEnerics\GEnerics\bin\Debug\netcoreapp3.1\GEnerics.deps.json
+C:\projetos\GEnerics\GEnerics\bin\Debug\netcoreapp3.1\GEnerics.runtimeconfig.json
+C:\projetos\GEnerics\GEnerics\bin\Debug\netcoreapp3.1\GEnerics.runtimeconfig.dev.json
+C:\projetos\GEnerics\GEnerics\bin\Debug\netcoreapp3.1\GEnerics.dll
+C:\projetos\GEnerics\GEnerics\bin\Debug\netcoreapp3.1\GEnerics.pdb
+C:\projetos\GEnerics\GEnerics\obj\Debug\netcoreapp3.1\GEnerics.csprojAssemblyReference.cache
+C:\projetos\GEnerics\GEnerics\obj\Debug\netcoreapp3.1\GEnerics.csproj.CoreCompileInputs.cache
+C:\projetos\GEnerics\GEnerics\obj\Debug\netcoreapp3.1\GEnerics.AssemblyInfoInputs.cache
+C:\projetos\GEnerics\GEnerics\obj\Debug\netcoreapp3.1\GEnerics.AssemblyInfo.cs
+C:\projetos\GEnerics\GEnerics\obj\Debug\netcoreapp3.1\GEnerics.dll
+C:\projetos\GEnerics\GEnerics\obj\Debug\netcoreapp3.1\GEnerics.pdb
+C:\projetos\GEnerics\GEnerics\obj\Debug\netcoreapp3.1\GEnerics.genruntimeconfig.cache

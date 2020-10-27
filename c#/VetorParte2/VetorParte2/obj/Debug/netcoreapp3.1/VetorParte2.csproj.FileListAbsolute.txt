@@ -1,0 +1,13 @@
+C:\projetos\VetorParte2\VetorParte2\bin\Debug\netcoreapp3.1\VetorParte2.exe
+C:\projetos\VetorParte2\VetorParte2\bin\Debug\netcoreapp3.1\VetorParte2.deps.json
+C:\projetos\VetorParte2\VetorParte2\bin\Debug\netcoreapp3.1\VetorParte2.runtimeconfig.json
+C:\projetos\VetorParte2\VetorParte2\bin\Debug\netcoreapp3.1\VetorParte2.runtimeconfig.dev.json
+C:\projetos\VetorParte2\VetorParte2\bin\Debug\netcoreapp3.1\VetorParte2.dll
+C:\projetos\VetorParte2\VetorParte2\bin\Debug\netcoreapp3.1\VetorParte2.pdb
+C:\projetos\VetorParte2\VetorParte2\obj\Debug\netcoreapp3.1\VetorParte2.csprojAssemblyReference.cache
+C:\projetos\VetorParte2\VetorParte2\obj\Debug\netcoreapp3.1\VetorParte2.csproj.CoreCompileInputs.cache
+C:\projetos\VetorParte2\VetorParte2\obj\Debug\netcoreapp3.1\VetorParte2.AssemblyInfoInputs.cache
+C:\projetos\VetorParte2\VetorParte2\obj\Debug\netcoreapp3.1\VetorParte2.AssemblyInfo.cs
+C:\projetos\VetorParte2\VetorParte2\obj\Debug\netcoreapp3.1\VetorParte2.dll
+C:\projetos\VetorParte2\VetorParte2\obj\Debug\netcoreapp3.1\VetorParte2.pdb
+C:\projetos\VetorParte2\VetorParte2\obj\Debug\netcoreapp3.1\VetorParte2.genruntimeconfig.cache
