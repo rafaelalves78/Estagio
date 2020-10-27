@@ -1,0 +1,13 @@
+C:\projetos\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.exe
+C:\projetos\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.deps.json
+C:\projetos\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.runtimeconfig.json
+C:\projetos\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.runtimeconfig.dev.json
+C:\projetos\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.dll
+C:\projetos\HerancaMultipla\HerancaMultipla\bin\Debug\netcoreapp3.1\HerancaMultipla.pdb
+C:\projetos\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.csprojAssemblyReference.cache
+C:\projetos\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.csproj.CoreCompileInputs.cache
+C:\projetos\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.AssemblyInfoInputs.cache
+C:\projetos\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.AssemblyInfo.cs
+C:\projetos\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.dll
+C:\projetos\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.pdb
+C:\projetos\HerancaMultipla\HerancaMultipla\obj\Debug\netcoreapp3.1\HerancaMultipla.genruntimeconfig.cache

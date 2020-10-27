@@ -1,0 +1,13 @@
+C:\projetos\Conjuntos\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.exe
+C:\projetos\Conjuntos\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.deps.json
+C:\projetos\Conjuntos\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.runtimeconfig.json
+C:\projetos\Conjuntos\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.runtimeconfig.dev.json
+C:\projetos\Conjuntos\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.dll
+C:\projetos\Conjuntos\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.pdb
+C:\projetos\Conjuntos\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.csprojAssemblyReference.cache
+C:\projetos\Conjuntos\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.csproj.CoreCompileInputs.cache
+C:\projetos\Conjuntos\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.AssemblyInfoInputs.cache
+C:\projetos\Conjuntos\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.AssemblyInfo.cs
+C:\projetos\Conjuntos\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.dll
+C:\projetos\Conjuntos\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.pdb
+C:\projetos\Conjuntos\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.genruntimeconfig.cache

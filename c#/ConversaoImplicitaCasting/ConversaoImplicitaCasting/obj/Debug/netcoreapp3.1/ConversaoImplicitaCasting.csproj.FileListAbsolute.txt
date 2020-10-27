@@ -1,0 +1,10 @@
+C:\projetos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\netcoreapp3.1\ConversaoImplicitaCasting.exe
+C:\projetos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\netcoreapp3.1\ConversaoImplicitaCasting.deps.json
+C:\projetos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\netcoreapp3.1\ConversaoImplicitaCasting.runtimeconfig.json
+C:\projetos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\netcoreapp3.1\ConversaoImplicitaCasting.runtimeconfig.dev.json
+C:\projetos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\netcoreapp3.1\ConversaoImplicitaCasting.dll
+C:\projetos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\netcoreapp3.1\ConversaoImplicitaCasting.pdb
+C:\projetos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\netcoreapp3.1\ConversaoImplicitaCasting.AssemblyInfoInputs.cache
+C:\projetos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\netcoreapp3.1\ConversaoImplicitaCasting.AssemblyInfo.cs
+C:\projetos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\netcoreapp3.1\ConversaoImplicitaCasting.dll
+C:\projetos\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\netcoreapp3.1\ConversaoImplicitaCasting.pdb

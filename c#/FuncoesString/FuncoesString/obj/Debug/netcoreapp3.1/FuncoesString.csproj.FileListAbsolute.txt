@@ -1,0 +1,13 @@
+C:\projetos\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.exe
+C:\projetos\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.deps.json
+C:\projetos\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.runtimeconfig.json
+C:\projetos\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.runtimeconfig.dev.json
+C:\projetos\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.dll
+C:\projetos\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.1\FuncoesString.pdb
+C:\projetos\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.csprojAssemblyReference.cache
+C:\projetos\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.csproj.CoreCompileInputs.cache
+C:\projetos\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.AssemblyInfoInputs.cache
+C:\projetos\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.AssemblyInfo.cs
+C:\projetos\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.dll
+C:\projetos\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.pdb
+C:\projetos\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.1\FuncoesString.genruntimeconfig.cache

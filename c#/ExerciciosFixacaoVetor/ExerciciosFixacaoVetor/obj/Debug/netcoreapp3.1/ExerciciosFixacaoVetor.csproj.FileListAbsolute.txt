@@ -1,0 +1,13 @@
+C:\projetos\ExerciciosFixacaoVetor\ExerciciosFixacaoVetor\bin\Debug\netcoreapp3.1\ExerciciosFixacaoVetor.exe
+C:\projetos\ExerciciosFixacaoVetor\ExerciciosFixacaoVetor\bin\Debug\netcoreapp3.1\ExerciciosFixacaoVetor.deps.json
+C:\projetos\ExerciciosFixacaoVetor\ExerciciosFixacaoVetor\bin\Debug\netcoreapp3.1\ExerciciosFixacaoVetor.runtimeconfig.json
+C:\projetos\ExerciciosFixacaoVetor\ExerciciosFixacaoVetor\bin\Debug\netcoreapp3.1\ExerciciosFixacaoVetor.runtimeconfig.dev.json
+C:\projetos\ExerciciosFixacaoVetor\ExerciciosFixacaoVetor\bin\Debug\netcoreapp3.1\ExerciciosFixacaoVetor.dll
+C:\projetos\ExerciciosFixacaoVetor\ExerciciosFixacaoVetor\bin\Debug\netcoreapp3.1\ExerciciosFixacaoVetor.pdb
+C:\projetos\ExerciciosFixacaoVetor\ExerciciosFixacaoVetor\obj\Debug\netcoreapp3.1\ExerciciosFixacaoVetor.csprojAssemblyReference.cache
+C:\projetos\ExerciciosFixacaoVetor\ExerciciosFixacaoVetor\obj\Debug\netcoreapp3.1\ExerciciosFixacaoVetor.csproj.CoreCompileInputs.cache
+C:\projetos\ExerciciosFixacaoVetor\ExerciciosFixacaoVetor\obj\Debug\netcoreapp3.1\ExerciciosFixacaoVetor.AssemblyInfoInputs.cache
+C:\projetos\ExerciciosFixacaoVetor\ExerciciosFixacaoVetor\obj\Debug\netcoreapp3.1\ExerciciosFixacaoVetor.AssemblyInfo.cs
+C:\projetos\ExerciciosFixacaoVetor\ExerciciosFixacaoVetor\obj\Debug\netcoreapp3.1\ExerciciosFixacaoVetor.dll
+C:\projetos\ExerciciosFixacaoVetor\ExerciciosFixacaoVetor\obj\Debug\netcoreapp3.1\ExerciciosFixacaoVetor.pdb
+C:\projetos\ExerciciosFixacaoVetor\ExerciciosFixacaoVetor\obj\Debug\netcoreapp3.1\ExerciciosFixacaoVetor.genruntimeconfig.cache

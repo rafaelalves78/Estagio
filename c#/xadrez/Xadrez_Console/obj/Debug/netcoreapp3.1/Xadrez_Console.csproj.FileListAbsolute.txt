@@ -1,0 +1,13 @@
+C:\hcode\Estagio Universo\c#\xadrez\Xadrez_Console\bin\Debug\netcoreapp3.1\Xadrez_Console.exe
+C:\hcode\Estagio Universo\c#\xadrez\Xadrez_Console\bin\Debug\netcoreapp3.1\Xadrez_Console.deps.json
+C:\hcode\Estagio Universo\c#\xadrez\Xadrez_Console\bin\Debug\netcoreapp3.1\Xadrez_Console.runtimeconfig.json
+C:\hcode\Estagio Universo\c#\xadrez\Xadrez_Console\bin\Debug\netcoreapp3.1\Xadrez_Console.runtimeconfig.dev.json
+C:\hcode\Estagio Universo\c#\xadrez\Xadrez_Console\bin\Debug\netcoreapp3.1\Xadrez_Console.dll
+C:\hcode\Estagio Universo\c#\xadrez\Xadrez_Console\bin\Debug\netcoreapp3.1\Xadrez_Console.pdb
+C:\hcode\Estagio Universo\c#\xadrez\Xadrez_Console\obj\Debug\netcoreapp3.1\Xadrez_Console.csprojAssemblyReference.cache
+C:\hcode\Estagio Universo\c#\xadrez\Xadrez_Console\obj\Debug\netcoreapp3.1\Xadrez_Console.AssemblyInfoInputs.cache
+C:\hcode\Estagio Universo\c#\xadrez\Xadrez_Console\obj\Debug\netcoreapp3.1\Xadrez_Console.AssemblyInfo.cs
+C:\hcode\Estagio Universo\c#\xadrez\Xadrez_Console\obj\Debug\netcoreapp3.1\Xadrez_Console.csproj.CoreCompileInputs.cache
+C:\hcode\Estagio Universo\c#\xadrez\Xadrez_Console\obj\Debug\netcoreapp3.1\Xadrez_Console.dll
+C:\hcode\Estagio Universo\c#\xadrez\Xadrez_Console\obj\Debug\netcoreapp3.1\Xadrez_Console.pdb
+C:\hcode\Estagio Universo\c#\xadrez\Xadrez_Console\obj\Debug\netcoreapp3.1\Xadrez_Console.genruntimeconfig.cache

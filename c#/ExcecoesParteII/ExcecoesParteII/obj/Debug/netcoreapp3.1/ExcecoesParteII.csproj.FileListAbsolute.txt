@@ -1,0 +1,13 @@
+C:\projetos\ExcecoesParteII\ExcecoesParteII\bin\Debug\netcoreapp3.1\ExcecoesParteII.exe
+C:\projetos\ExcecoesParteII\ExcecoesParteII\bin\Debug\netcoreapp3.1\ExcecoesParteII.deps.json
+C:\projetos\ExcecoesParteII\ExcecoesParteII\bin\Debug\netcoreapp3.1\ExcecoesParteII.runtimeconfig.json
+C:\projetos\ExcecoesParteII\ExcecoesParteII\bin\Debug\netcoreapp3.1\ExcecoesParteII.runtimeconfig.dev.json
+C:\projetos\ExcecoesParteII\ExcecoesParteII\bin\Debug\netcoreapp3.1\ExcecoesParteII.dll
+C:\projetos\ExcecoesParteII\ExcecoesParteII\bin\Debug\netcoreapp3.1\ExcecoesParteII.pdb
+C:\projetos\ExcecoesParteII\ExcecoesParteII\obj\Debug\netcoreapp3.1\ExcecoesParteII.csprojAssemblyReference.cache
+C:\projetos\ExcecoesParteII\ExcecoesParteII\obj\Debug\netcoreapp3.1\ExcecoesParteII.csproj.CoreCompileInputs.cache
+C:\projetos\ExcecoesParteII\ExcecoesParteII\obj\Debug\netcoreapp3.1\ExcecoesParteII.AssemblyInfoInputs.cache
+C:\projetos\ExcecoesParteII\ExcecoesParteII\obj\Debug\netcoreapp3.1\ExcecoesParteII.AssemblyInfo.cs
+C:\projetos\ExcecoesParteII\ExcecoesParteII\obj\Debug\netcoreapp3.1\ExcecoesParteII.dll
+C:\projetos\ExcecoesParteII\ExcecoesParteII\obj\Debug\netcoreapp3.1\ExcecoesParteII.pdb
+C:\projetos\ExcecoesParteII\ExcecoesParteII\obj\Debug\netcoreapp3.1\ExcecoesParteII.genruntimeconfig.cache

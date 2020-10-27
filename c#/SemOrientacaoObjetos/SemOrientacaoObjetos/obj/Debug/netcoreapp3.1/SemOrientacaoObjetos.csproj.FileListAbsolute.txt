@@ -1,0 +1,11 @@
+C:\projetos\SemOrientacaoObjetos\SemOrientacaoObjetos\bin\Debug\netcoreapp3.1\SemOrientacaoObjetos.exe
+C:\projetos\SemOrientacaoObjetos\SemOrientacaoObjetos\bin\Debug\netcoreapp3.1\SemOrientacaoObjetos.deps.json
+C:\projetos\SemOrientacaoObjetos\SemOrientacaoObjetos\bin\Debug\netcoreapp3.1\SemOrientacaoObjetos.runtimeconfig.json
+C:\projetos\SemOrientacaoObjetos\SemOrientacaoObjetos\bin\Debug\netcoreapp3.1\SemOrientacaoObjetos.runtimeconfig.dev.json
+C:\projetos\SemOrientacaoObjetos\SemOrientacaoObjetos\bin\Debug\netcoreapp3.1\SemOrientacaoObjetos.dll
+C:\projetos\SemOrientacaoObjetos\SemOrientacaoObjetos\bin\Debug\netcoreapp3.1\SemOrientacaoObjetos.pdb
+C:\projetos\SemOrientacaoObjetos\SemOrientacaoObjetos\obj\Debug\netcoreapp3.1\SemOrientacaoObjetos.csprojAssemblyReference.cache
+C:\projetos\SemOrientacaoObjetos\SemOrientacaoObjetos\obj\Debug\netcoreapp3.1\SemOrientacaoObjetos.AssemblyInfoInputs.cache
+C:\projetos\SemOrientacaoObjetos\SemOrientacaoObjetos\obj\Debug\netcoreapp3.1\SemOrientacaoObjetos.AssemblyInfo.cs
+C:\projetos\SemOrientacaoObjetos\SemOrientacaoObjetos\obj\Debug\netcoreapp3.1\SemOrientacaoObjetos.dll
+C:\projetos\SemOrientacaoObjetos\SemOrientacaoObjetos\obj\Debug\netcoreapp3.1\SemOrientacaoObjetos.pdb

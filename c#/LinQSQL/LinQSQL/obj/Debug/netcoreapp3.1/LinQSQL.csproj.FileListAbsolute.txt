@@ -1,0 +1,13 @@
+C:\projetos\LinQSQL\LinQSQL\bin\Debug\netcoreapp3.1\LinQSQL.exe
+C:\projetos\LinQSQL\LinQSQL\bin\Debug\netcoreapp3.1\LinQSQL.deps.json
+C:\projetos\LinQSQL\LinQSQL\bin\Debug\netcoreapp3.1\LinQSQL.runtimeconfig.json
+C:\projetos\LinQSQL\LinQSQL\bin\Debug\netcoreapp3.1\LinQSQL.runtimeconfig.dev.json
+C:\projetos\LinQSQL\LinQSQL\bin\Debug\netcoreapp3.1\LinQSQL.dll
+C:\projetos\LinQSQL\LinQSQL\bin\Debug\netcoreapp3.1\LinQSQL.pdb
+C:\projetos\LinQSQL\LinQSQL\obj\Debug\netcoreapp3.1\LinQSQL.csprojAssemblyReference.cache
+C:\projetos\LinQSQL\LinQSQL\obj\Debug\netcoreapp3.1\LinQSQL.AssemblyInfoInputs.cache
+C:\projetos\LinQSQL\LinQSQL\obj\Debug\netcoreapp3.1\LinQSQL.AssemblyInfo.cs
+C:\projetos\LinQSQL\LinQSQL\obj\Debug\netcoreapp3.1\LinQSQL.csproj.CoreCompileInputs.cache
+C:\projetos\LinQSQL\LinQSQL\obj\Debug\netcoreapp3.1\LinQSQL.dll
+C:\projetos\LinQSQL\LinQSQL\obj\Debug\netcoreapp3.1\LinQSQL.pdb
+C:\projetos\LinQSQL\LinQSQL\obj\Debug\netcoreapp3.1\LinQSQL.genruntimeconfig.cache

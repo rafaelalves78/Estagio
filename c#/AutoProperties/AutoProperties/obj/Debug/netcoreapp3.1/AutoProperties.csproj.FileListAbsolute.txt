@@ -1,0 +1,13 @@
+C:\projetos\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.exe
+C:\projetos\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.deps.json
+C:\projetos\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.runtimeconfig.json
+C:\projetos\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.runtimeconfig.dev.json
+C:\projetos\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.dll
+C:\projetos\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.pdb
+C:\projetos\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.csprojAssemblyReference.cache
+C:\projetos\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.csproj.CoreCompileInputs.cache
+C:\projetos\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.AssemblyInfoInputs.cache
+C:\projetos\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.AssemblyInfo.cs
+C:\projetos\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.dll
+C:\projetos\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.pdb
+C:\projetos\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.genruntimeconfig.cache

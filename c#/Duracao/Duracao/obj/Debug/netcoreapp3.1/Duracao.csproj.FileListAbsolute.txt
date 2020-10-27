@@ -1,0 +1,13 @@
+C:\projetos\Duracao\Duracao\bin\Debug\netcoreapp3.1\Duracao.exe
+C:\projetos\Duracao\Duracao\bin\Debug\netcoreapp3.1\Duracao.deps.json
+C:\projetos\Duracao\Duracao\bin\Debug\netcoreapp3.1\Duracao.runtimeconfig.json
+C:\projetos\Duracao\Duracao\bin\Debug\netcoreapp3.1\Duracao.runtimeconfig.dev.json
+C:\projetos\Duracao\Duracao\bin\Debug\netcoreapp3.1\Duracao.dll
+C:\projetos\Duracao\Duracao\bin\Debug\netcoreapp3.1\Duracao.pdb
+C:\projetos\Duracao\Duracao\obj\Debug\netcoreapp3.1\Duracao.csprojAssemblyReference.cache
+C:\projetos\Duracao\Duracao\obj\Debug\netcoreapp3.1\Duracao.csproj.CoreCompileInputs.cache
+C:\projetos\Duracao\Duracao\obj\Debug\netcoreapp3.1\Duracao.AssemblyInfoInputs.cache
+C:\projetos\Duracao\Duracao\obj\Debug\netcoreapp3.1\Duracao.AssemblyInfo.cs
+C:\projetos\Duracao\Duracao\obj\Debug\netcoreapp3.1\Duracao.dll
+C:\projetos\Duracao\Duracao\obj\Debug\netcoreapp3.1\Duracao.pdb
+C:\projetos\Duracao\Duracao\obj\Debug\netcoreapp3.1\Duracao.genruntimeconfig.cache

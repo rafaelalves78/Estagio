@@ -1,0 +1,13 @@
+C:\projetos\ExerciciosPolieHeran\ExerciciosPolieHeran\bin\Debug\netcoreapp3.1\ExerciciosPolieHeran.exe
+C:\projetos\ExerciciosPolieHeran\ExerciciosPolieHeran\bin\Debug\netcoreapp3.1\ExerciciosPolieHeran.deps.json
+C:\projetos\ExerciciosPolieHeran\ExerciciosPolieHeran\bin\Debug\netcoreapp3.1\ExerciciosPolieHeran.runtimeconfig.json
+C:\projetos\ExerciciosPolieHeran\ExerciciosPolieHeran\bin\Debug\netcoreapp3.1\ExerciciosPolieHeran.runtimeconfig.dev.json
+C:\projetos\ExerciciosPolieHeran\ExerciciosPolieHeran\bin\Debug\netcoreapp3.1\ExerciciosPolieHeran.dll
+C:\projetos\ExerciciosPolieHeran\ExerciciosPolieHeran\bin\Debug\netcoreapp3.1\ExerciciosPolieHeran.pdb
+C:\projetos\ExerciciosPolieHeran\ExerciciosPolieHeran\obj\Debug\netcoreapp3.1\ExerciciosPolieHeran.csprojAssemblyReference.cache
+C:\projetos\ExerciciosPolieHeran\ExerciciosPolieHeran\obj\Debug\netcoreapp3.1\ExerciciosPolieHeran.csproj.CoreCompileInputs.cache
+C:\projetos\ExerciciosPolieHeran\ExerciciosPolieHeran\obj\Debug\netcoreapp3.1\ExerciciosPolieHeran.AssemblyInfoInputs.cache
+C:\projetos\ExerciciosPolieHeran\ExerciciosPolieHeran\obj\Debug\netcoreapp3.1\ExerciciosPolieHeran.AssemblyInfo.cs
+C:\projetos\ExerciciosPolieHeran\ExerciciosPolieHeran\obj\Debug\netcoreapp3.1\ExerciciosPolieHeran.dll
+C:\projetos\ExerciciosPolieHeran\ExerciciosPolieHeran\obj\Debug\netcoreapp3.1\ExerciciosPolieHeran.pdb
+C:\projetos\ExerciciosPolieHeran\ExerciciosPolieHeran\obj\Debug\netcoreapp3.1\ExerciciosPolieHeran.genruntimeconfig.cache

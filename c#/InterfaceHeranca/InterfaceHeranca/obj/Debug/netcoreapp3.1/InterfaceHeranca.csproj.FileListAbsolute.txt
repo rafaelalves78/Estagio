@@ -1,0 +1,13 @@
+C:\projetos\InterfaceHeranca\InterfaceHeranca\obj\Debug\netcoreapp3.1\InterfaceHeranca.csprojAssemblyReference.cache
+C:\projetos\InterfaceHeranca\InterfaceHeranca\obj\Debug\netcoreapp3.1\InterfaceHeranca.csproj.CoreCompileInputs.cache
+C:\projetos\InterfaceHeranca\InterfaceHeranca\obj\Debug\netcoreapp3.1\InterfaceHeranca.AssemblyInfoInputs.cache
+C:\projetos\InterfaceHeranca\InterfaceHeranca\obj\Debug\netcoreapp3.1\InterfaceHeranca.AssemblyInfo.cs
+C:\projetos\InterfaceHeranca\InterfaceHeranca\bin\Debug\netcoreapp3.1\InterfaceHeranca.exe
+C:\projetos\InterfaceHeranca\InterfaceHeranca\bin\Debug\netcoreapp3.1\InterfaceHeranca.deps.json
+C:\projetos\InterfaceHeranca\InterfaceHeranca\bin\Debug\netcoreapp3.1\InterfaceHeranca.runtimeconfig.json
+C:\projetos\InterfaceHeranca\InterfaceHeranca\bin\Debug\netcoreapp3.1\InterfaceHeranca.runtimeconfig.dev.json
+C:\projetos\InterfaceHeranca\InterfaceHeranca\bin\Debug\netcoreapp3.1\InterfaceHeranca.dll
+C:\projetos\InterfaceHeranca\InterfaceHeranca\bin\Debug\netcoreapp3.1\InterfaceHeranca.pdb
+C:\projetos\InterfaceHeranca\InterfaceHeranca\obj\Debug\netcoreapp3.1\InterfaceHeranca.dll
+C:\projetos\InterfaceHeranca\InterfaceHeranca\obj\Debug\netcoreapp3.1\InterfaceHeranca.pdb
+C:\projetos\InterfaceHeranca\InterfaceHeranca\obj\Debug\netcoreapp3.1\InterfaceHeranca.genruntimeconfig.cache

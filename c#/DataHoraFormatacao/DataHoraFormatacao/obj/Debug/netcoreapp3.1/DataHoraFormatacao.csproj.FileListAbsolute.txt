@@ -1,0 +1,12 @@
+C:\projetos\DataHoraFormatacao\DataHoraFormatacao\bin\Debug\netcoreapp3.1\DataHoraFormatacao.exe
+C:\projetos\DataHoraFormatacao\DataHoraFormatacao\bin\Debug\netcoreapp3.1\DataHoraFormatacao.deps.json
+C:\projetos\DataHoraFormatacao\DataHoraFormatacao\bin\Debug\netcoreapp3.1\DataHoraFormatacao.runtimeconfig.json
+C:\projetos\DataHoraFormatacao\DataHoraFormatacao\bin\Debug\netcoreapp3.1\DataHoraFormatacao.runtimeconfig.dev.json
+C:\projetos\DataHoraFormatacao\DataHoraFormatacao\bin\Debug\netcoreapp3.1\DataHoraFormatacao.dll
+C:\projetos\DataHoraFormatacao\DataHoraFormatacao\bin\Debug\netcoreapp3.1\DataHoraFormatacao.pdb
+C:\projetos\DataHoraFormatacao\DataHoraFormatacao\obj\Debug\netcoreapp3.1\DataHoraFormatacao.csproj.CoreCompileInputs.cache
+C:\projetos\DataHoraFormatacao\DataHoraFormatacao\obj\Debug\netcoreapp3.1\DataHoraFormatacao.AssemblyInfoInputs.cache
+C:\projetos\DataHoraFormatacao\DataHoraFormatacao\obj\Debug\netcoreapp3.1\DataHoraFormatacao.AssemblyInfo.cs
+C:\projetos\DataHoraFormatacao\DataHoraFormatacao\obj\Debug\netcoreapp3.1\DataHoraFormatacao.dll
+C:\projetos\DataHoraFormatacao\DataHoraFormatacao\obj\Debug\netcoreapp3.1\DataHoraFormatacao.pdb
+C:\projetos\DataHoraFormatacao\DataHoraFormatacao\obj\Debug\netcoreapp3.1\DataHoraFormatacao.genruntimeconfig.cache

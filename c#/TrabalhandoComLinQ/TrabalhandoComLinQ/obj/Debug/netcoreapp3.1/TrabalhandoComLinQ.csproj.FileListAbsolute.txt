@@ -1,0 +1,13 @@
+C:\projetos\TrabalhandoComLinQ\TrabalhandoComLinQ\bin\Debug\netcoreapp3.1\TrabalhandoComLinQ.exe
+C:\projetos\TrabalhandoComLinQ\TrabalhandoComLinQ\bin\Debug\netcoreapp3.1\TrabalhandoComLinQ.deps.json
+C:\projetos\TrabalhandoComLinQ\TrabalhandoComLinQ\bin\Debug\netcoreapp3.1\TrabalhandoComLinQ.runtimeconfig.json
+C:\projetos\TrabalhandoComLinQ\TrabalhandoComLinQ\bin\Debug\netcoreapp3.1\TrabalhandoComLinQ.runtimeconfig.dev.json
+C:\projetos\TrabalhandoComLinQ\TrabalhandoComLinQ\bin\Debug\netcoreapp3.1\TrabalhandoComLinQ.dll
+C:\projetos\TrabalhandoComLinQ\TrabalhandoComLinQ\bin\Debug\netcoreapp3.1\TrabalhandoComLinQ.pdb
+C:\projetos\TrabalhandoComLinQ\TrabalhandoComLinQ\obj\Debug\netcoreapp3.1\TrabalhandoComLinQ.csprojAssemblyReference.cache
+C:\projetos\TrabalhandoComLinQ\TrabalhandoComLinQ\obj\Debug\netcoreapp3.1\TrabalhandoComLinQ.AssemblyInfoInputs.cache
+C:\projetos\TrabalhandoComLinQ\TrabalhandoComLinQ\obj\Debug\netcoreapp3.1\TrabalhandoComLinQ.AssemblyInfo.cs
+C:\projetos\TrabalhandoComLinQ\TrabalhandoComLinQ\obj\Debug\netcoreapp3.1\TrabalhandoComLinQ.csproj.CoreCompileInputs.cache
+C:\projetos\TrabalhandoComLinQ\TrabalhandoComLinQ\obj\Debug\netcoreapp3.1\TrabalhandoComLinQ.dll
+C:\projetos\TrabalhandoComLinQ\TrabalhandoComLinQ\obj\Debug\netcoreapp3.1\TrabalhandoComLinQ.pdb
+C:\projetos\TrabalhandoComLinQ\TrabalhandoComLinQ\obj\Debug\netcoreapp3.1\TrabalhandoComLinQ.genruntimeconfig.cache

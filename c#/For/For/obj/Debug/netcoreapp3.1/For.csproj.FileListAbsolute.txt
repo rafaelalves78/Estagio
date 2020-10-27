@@ -1,0 +1,11 @@
+C:\projetos\For\For\bin\Debug\netcoreapp3.1\For.exe
+C:\projetos\For\For\bin\Debug\netcoreapp3.1\For.deps.json
+C:\projetos\For\For\bin\Debug\netcoreapp3.1\For.runtimeconfig.json
+C:\projetos\For\For\bin\Debug\netcoreapp3.1\For.runtimeconfig.dev.json
+C:\projetos\For\For\bin\Debug\netcoreapp3.1\For.dll
+C:\projetos\For\For\bin\Debug\netcoreapp3.1\For.pdb
+C:\projetos\For\For\obj\Debug\netcoreapp3.1\For.csprojAssemblyReference.cache
+C:\projetos\For\For\obj\Debug\netcoreapp3.1\For.AssemblyInfoInputs.cache
+C:\projetos\For\For\obj\Debug\netcoreapp3.1\For.AssemblyInfo.cs
+C:\projetos\For\For\obj\Debug\netcoreapp3.1\For.dll
+C:\projetos\For\For\obj\Debug\netcoreapp3.1\For.pdb

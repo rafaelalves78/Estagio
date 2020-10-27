@@ -1,0 +1,13 @@
+C:\projetos\IgualdadeConjuntos\IgualdadeConjuntos\bin\Debug\netcoreapp3.1\IgualdadeConjuntos.exe
+C:\projetos\IgualdadeConjuntos\IgualdadeConjuntos\bin\Debug\netcoreapp3.1\IgualdadeConjuntos.deps.json
+C:\projetos\IgualdadeConjuntos\IgualdadeConjuntos\bin\Debug\netcoreapp3.1\IgualdadeConjuntos.runtimeconfig.json
+C:\projetos\IgualdadeConjuntos\IgualdadeConjuntos\bin\Debug\netcoreapp3.1\IgualdadeConjuntos.runtimeconfig.dev.json
+C:\projetos\IgualdadeConjuntos\IgualdadeConjuntos\bin\Debug\netcoreapp3.1\IgualdadeConjuntos.dll
+C:\projetos\IgualdadeConjuntos\IgualdadeConjuntos\bin\Debug\netcoreapp3.1\IgualdadeConjuntos.pdb
+C:\projetos\IgualdadeConjuntos\IgualdadeConjuntos\obj\Debug\netcoreapp3.1\IgualdadeConjuntos.csprojAssemblyReference.cache
+C:\projetos\IgualdadeConjuntos\IgualdadeConjuntos\obj\Debug\netcoreapp3.1\IgualdadeConjuntos.AssemblyInfoInputs.cache
+C:\projetos\IgualdadeConjuntos\IgualdadeConjuntos\obj\Debug\netcoreapp3.1\IgualdadeConjuntos.AssemblyInfo.cs
+C:\projetos\IgualdadeConjuntos\IgualdadeConjuntos\obj\Debug\netcoreapp3.1\IgualdadeConjuntos.csproj.CoreCompileInputs.cache
+C:\projetos\IgualdadeConjuntos\IgualdadeConjuntos\obj\Debug\netcoreapp3.1\IgualdadeConjuntos.dll
+C:\projetos\IgualdadeConjuntos\IgualdadeConjuntos\obj\Debug\netcoreapp3.1\IgualdadeConjuntos.pdb
+C:\projetos\IgualdadeConjuntos\IgualdadeConjuntos\obj\Debug\netcoreapp3.1\IgualdadeConjuntos.genruntimeconfig.cache

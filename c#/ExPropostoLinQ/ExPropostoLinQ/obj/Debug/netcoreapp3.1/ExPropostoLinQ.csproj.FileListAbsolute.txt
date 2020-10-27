@@ -1,0 +1,13 @@
+C:\projetos\ExPropostoLinQ\ExPropostoLinQ\bin\Debug\netcoreapp3.1\ExPropostoLinQ.exe
+C:\projetos\ExPropostoLinQ\ExPropostoLinQ\bin\Debug\netcoreapp3.1\ExPropostoLinQ.deps.json
+C:\projetos\ExPropostoLinQ\ExPropostoLinQ\bin\Debug\netcoreapp3.1\ExPropostoLinQ.runtimeconfig.json
+C:\projetos\ExPropostoLinQ\ExPropostoLinQ\bin\Debug\netcoreapp3.1\ExPropostoLinQ.runtimeconfig.dev.json
+C:\projetos\ExPropostoLinQ\ExPropostoLinQ\bin\Debug\netcoreapp3.1\ExPropostoLinQ.dll
+C:\projetos\ExPropostoLinQ\ExPropostoLinQ\bin\Debug\netcoreapp3.1\ExPropostoLinQ.pdb
+C:\projetos\ExPropostoLinQ\ExPropostoLinQ\obj\Debug\netcoreapp3.1\ExPropostoLinQ.csprojAssemblyReference.cache
+C:\projetos\ExPropostoLinQ\ExPropostoLinQ\obj\Debug\netcoreapp3.1\ExPropostoLinQ.AssemblyInfoInputs.cache
+C:\projetos\ExPropostoLinQ\ExPropostoLinQ\obj\Debug\netcoreapp3.1\ExPropostoLinQ.AssemblyInfo.cs
+C:\projetos\ExPropostoLinQ\ExPropostoLinQ\obj\Debug\netcoreapp3.1\ExPropostoLinQ.csproj.CoreCompileInputs.cache
+C:\projetos\ExPropostoLinQ\ExPropostoLinQ\obj\Debug\netcoreapp3.1\ExPropostoLinQ.dll
+C:\projetos\ExPropostoLinQ\ExPropostoLinQ\obj\Debug\netcoreapp3.1\ExPropostoLinQ.pdb
+C:\projetos\ExPropostoLinQ\ExPropostoLinQ\obj\Debug\netcoreapp3.1\ExPropostoLinQ.genruntimeconfig.cache

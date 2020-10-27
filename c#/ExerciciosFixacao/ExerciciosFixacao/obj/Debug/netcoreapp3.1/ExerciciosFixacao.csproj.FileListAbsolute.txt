@@ -1,0 +1,13 @@
+C:\projetos\ExerciciosFixacao\ExerciciosFixacao\bin\Debug\netcoreapp3.1\ExerciciosFixacao.exe
+C:\projetos\ExerciciosFixacao\ExerciciosFixacao\bin\Debug\netcoreapp3.1\ExerciciosFixacao.deps.json
+C:\projetos\ExerciciosFixacao\ExerciciosFixacao\bin\Debug\netcoreapp3.1\ExerciciosFixacao.runtimeconfig.json
+C:\projetos\ExerciciosFixacao\ExerciciosFixacao\bin\Debug\netcoreapp3.1\ExerciciosFixacao.runtimeconfig.dev.json
+C:\projetos\ExerciciosFixacao\ExerciciosFixacao\bin\Debug\netcoreapp3.1\ExerciciosFixacao.dll
+C:\projetos\ExerciciosFixacao\ExerciciosFixacao\bin\Debug\netcoreapp3.1\ExerciciosFixacao.pdb
+C:\projetos\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\netcoreapp3.1\ExerciciosFixacao.csprojAssemblyReference.cache
+C:\projetos\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\netcoreapp3.1\ExerciciosFixacao.csproj.CoreCompileInputs.cache
+C:\projetos\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\netcoreapp3.1\ExerciciosFixacao.AssemblyInfoInputs.cache
+C:\projetos\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\netcoreapp3.1\ExerciciosFixacao.AssemblyInfo.cs
+C:\projetos\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\netcoreapp3.1\ExerciciosFixacao.dll
+C:\projetos\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\netcoreapp3.1\ExerciciosFixacao.pdb
+C:\projetos\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\netcoreapp3.1\ExerciciosFixacao.genruntimeconfig.cache

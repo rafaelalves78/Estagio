@@ -1,0 +1,11 @@
+C:\projetos\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\netcoreapp3.1\OperadoresAtribuicao.exe
+C:\projetos\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\netcoreapp3.1\OperadoresAtribuicao.deps.json
+C:\projetos\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\netcoreapp3.1\OperadoresAtribuicao.runtimeconfig.json
+C:\projetos\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\netcoreapp3.1\OperadoresAtribuicao.runtimeconfig.dev.json
+C:\projetos\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\netcoreapp3.1\OperadoresAtribuicao.dll
+C:\projetos\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\netcoreapp3.1\OperadoresAtribuicao.pdb
+C:\projetos\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\netcoreapp3.1\OperadoresAtribuicao.csprojAssemblyReference.cache
+C:\projetos\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\netcoreapp3.1\OperadoresAtribuicao.AssemblyInfoInputs.cache
+C:\projetos\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\netcoreapp3.1\OperadoresAtribuicao.AssemblyInfo.cs
+C:\projetos\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\netcoreapp3.1\OperadoresAtribuicao.dll
+C:\projetos\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\netcoreapp3.1\OperadoresAtribuicao.pdb

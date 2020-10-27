@@ -1,0 +1,13 @@
+C:\projetos\PredicaTeParteII\PredicaTeParteII\bin\Debug\netcoreapp3.1\PredicaTeParteII.exe
+C:\projetos\PredicaTeParteII\PredicaTeParteII\bin\Debug\netcoreapp3.1\PredicaTeParteII.deps.json
+C:\projetos\PredicaTeParteII\PredicaTeParteII\bin\Debug\netcoreapp3.1\PredicaTeParteII.runtimeconfig.json
+C:\projetos\PredicaTeParteII\PredicaTeParteII\bin\Debug\netcoreapp3.1\PredicaTeParteII.runtimeconfig.dev.json
+C:\projetos\PredicaTeParteII\PredicaTeParteII\bin\Debug\netcoreapp3.1\PredicaTeParteII.dll
+C:\projetos\PredicaTeParteII\PredicaTeParteII\bin\Debug\netcoreapp3.1\PredicaTeParteII.pdb
+C:\projetos\PredicaTeParteII\PredicaTeParteII\obj\Debug\netcoreapp3.1\PredicaTeParteII.csprojAssemblyReference.cache
+C:\projetos\PredicaTeParteII\PredicaTeParteII\obj\Debug\netcoreapp3.1\PredicaTeParteII.AssemblyInfoInputs.cache
+C:\projetos\PredicaTeParteII\PredicaTeParteII\obj\Debug\netcoreapp3.1\PredicaTeParteII.AssemblyInfo.cs
+C:\projetos\PredicaTeParteII\PredicaTeParteII\obj\Debug\netcoreapp3.1\PredicaTeParteII.csproj.CoreCompileInputs.cache
+C:\projetos\PredicaTeParteII\PredicaTeParteII\obj\Debug\netcoreapp3.1\PredicaTeParteII.dll
+C:\projetos\PredicaTeParteII\PredicaTeParteII\obj\Debug\netcoreapp3.1\PredicaTeParteII.pdb
+C:\projetos\PredicaTeParteII\PredicaTeParteII\obj\Debug\netcoreapp3.1\PredicaTeParteII.genruntimeconfig.cache

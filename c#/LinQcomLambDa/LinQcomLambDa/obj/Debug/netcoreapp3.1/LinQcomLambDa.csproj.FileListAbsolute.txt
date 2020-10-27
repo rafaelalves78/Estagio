@@ -1,0 +1,13 @@
+C:\projetos\LinQcomLambDa\LinQcomLambDa\bin\Debug\netcoreapp3.1\LinQcomLambDa.exe
+C:\projetos\LinQcomLambDa\LinQcomLambDa\bin\Debug\netcoreapp3.1\LinQcomLambDa.deps.json
+C:\projetos\LinQcomLambDa\LinQcomLambDa\bin\Debug\netcoreapp3.1\LinQcomLambDa.runtimeconfig.json
+C:\projetos\LinQcomLambDa\LinQcomLambDa\bin\Debug\netcoreapp3.1\LinQcomLambDa.runtimeconfig.dev.json
+C:\projetos\LinQcomLambDa\LinQcomLambDa\bin\Debug\netcoreapp3.1\LinQcomLambDa.dll
+C:\projetos\LinQcomLambDa\LinQcomLambDa\bin\Debug\netcoreapp3.1\LinQcomLambDa.pdb
+C:\projetos\LinQcomLambDa\LinQcomLambDa\obj\Debug\netcoreapp3.1\LinQcomLambDa.csprojAssemblyReference.cache
+C:\projetos\LinQcomLambDa\LinQcomLambDa\obj\Debug\netcoreapp3.1\LinQcomLambDa.AssemblyInfoInputs.cache
+C:\projetos\LinQcomLambDa\LinQcomLambDa\obj\Debug\netcoreapp3.1\LinQcomLambDa.AssemblyInfo.cs
+C:\projetos\LinQcomLambDa\LinQcomLambDa\obj\Debug\netcoreapp3.1\LinQcomLambDa.csproj.CoreCompileInputs.cache
+C:\projetos\LinQcomLambDa\LinQcomLambDa\obj\Debug\netcoreapp3.1\LinQcomLambDa.dll
+C:\projetos\LinQcomLambDa\LinQcomLambDa\obj\Debug\netcoreapp3.1\LinQcomLambDa.pdb
+C:\projetos\LinQcomLambDa\LinQcomLambDa\obj\Debug\netcoreapp3.1\LinQcomLambDa.genruntimeconfig.cache

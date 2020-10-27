@@ -1,0 +1,13 @@
+C:\projetos\CondicionalTernária\CondicionalTernária\bin\Debug\netcoreapp3.1\CondicionalTernária.exe
+C:\projetos\CondicionalTernária\CondicionalTernária\bin\Debug\netcoreapp3.1\CondicionalTernária.deps.json
+C:\projetos\CondicionalTernária\CondicionalTernária\bin\Debug\netcoreapp3.1\CondicionalTernária.runtimeconfig.json
+C:\projetos\CondicionalTernária\CondicionalTernária\bin\Debug\netcoreapp3.1\CondicionalTernária.runtimeconfig.dev.json
+C:\projetos\CondicionalTernária\CondicionalTernária\bin\Debug\netcoreapp3.1\CondicionalTernária.dll
+C:\projetos\CondicionalTernária\CondicionalTernária\bin\Debug\netcoreapp3.1\CondicionalTernária.pdb
+C:\projetos\CondicionalTernária\CondicionalTernária\obj\Debug\netcoreapp3.1\CondicionalTernária.csprojAssemblyReference.cache
+C:\projetos\CondicionalTernária\CondicionalTernária\obj\Debug\netcoreapp3.1\CondicionalTernária.csproj.CoreCompileInputs.cache
+C:\projetos\CondicionalTernária\CondicionalTernária\obj\Debug\netcoreapp3.1\CondicionalTernária.AssemblyInfoInputs.cache
+C:\projetos\CondicionalTernária\CondicionalTernária\obj\Debug\netcoreapp3.1\CondicionalTernária.AssemblyInfo.cs
+C:\projetos\CondicionalTernária\CondicionalTernária\obj\Debug\netcoreapp3.1\CondicionalTernária.dll
+C:\projetos\CondicionalTernária\CondicionalTernária\obj\Debug\netcoreapp3.1\CondicionalTernária.pdb
+C:\projetos\CondicionalTernária\CondicionalTernária\obj\Debug\netcoreapp3.1\CondicionalTernária.genruntimeconfig.cache

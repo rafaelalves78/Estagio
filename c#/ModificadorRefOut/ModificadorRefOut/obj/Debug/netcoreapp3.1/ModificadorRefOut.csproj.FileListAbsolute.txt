@@ -1,0 +1,13 @@
+C:\projetos\ModificadorRefOut\ModificadorRefOut\bin\Debug\netcoreapp3.1\ModificadorRefOut.exe
+C:\projetos\ModificadorRefOut\ModificadorRefOut\bin\Debug\netcoreapp3.1\ModificadorRefOut.deps.json
+C:\projetos\ModificadorRefOut\ModificadorRefOut\bin\Debug\netcoreapp3.1\ModificadorRefOut.runtimeconfig.json
+C:\projetos\ModificadorRefOut\ModificadorRefOut\bin\Debug\netcoreapp3.1\ModificadorRefOut.runtimeconfig.dev.json
+C:\projetos\ModificadorRefOut\ModificadorRefOut\bin\Debug\netcoreapp3.1\ModificadorRefOut.dll
+C:\projetos\ModificadorRefOut\ModificadorRefOut\bin\Debug\netcoreapp3.1\ModificadorRefOut.pdb
+C:\projetos\ModificadorRefOut\ModificadorRefOut\obj\Debug\netcoreapp3.1\ModificadorRefOut.csprojAssemblyReference.cache
+C:\projetos\ModificadorRefOut\ModificadorRefOut\obj\Debug\netcoreapp3.1\ModificadorRefOut.csproj.CoreCompileInputs.cache
+C:\projetos\ModificadorRefOut\ModificadorRefOut\obj\Debug\netcoreapp3.1\ModificadorRefOut.AssemblyInfoInputs.cache
+C:\projetos\ModificadorRefOut\ModificadorRefOut\obj\Debug\netcoreapp3.1\ModificadorRefOut.AssemblyInfo.cs
+C:\projetos\ModificadorRefOut\ModificadorRefOut\obj\Debug\netcoreapp3.1\ModificadorRefOut.dll
+C:\projetos\ModificadorRefOut\ModificadorRefOut\obj\Debug\netcoreapp3.1\ModificadorRefOut.pdb
+C:\projetos\ModificadorRefOut\ModificadorRefOut\obj\Debug\netcoreapp3.1\ModificadorRefOut.genruntimeconfig.cache

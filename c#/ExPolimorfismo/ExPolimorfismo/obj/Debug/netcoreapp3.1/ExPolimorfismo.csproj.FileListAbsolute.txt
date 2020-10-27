@@ -1,0 +1,13 @@
+C:\projetos\ExPolimorfismo\ExPolimorfismo\bin\Debug\netcoreapp3.1\ExPolimorfismo.exe
+C:\projetos\ExPolimorfismo\ExPolimorfismo\bin\Debug\netcoreapp3.1\ExPolimorfismo.deps.json
+C:\projetos\ExPolimorfismo\ExPolimorfismo\bin\Debug\netcoreapp3.1\ExPolimorfismo.runtimeconfig.json
+C:\projetos\ExPolimorfismo\ExPolimorfismo\bin\Debug\netcoreapp3.1\ExPolimorfismo.runtimeconfig.dev.json
+C:\projetos\ExPolimorfismo\ExPolimorfismo\bin\Debug\netcoreapp3.1\ExPolimorfismo.dll
+C:\projetos\ExPolimorfismo\ExPolimorfismo\bin\Debug\netcoreapp3.1\ExPolimorfismo.pdb
+C:\projetos\ExPolimorfismo\ExPolimorfismo\obj\Debug\netcoreapp3.1\ExPolimorfismo.csprojAssemblyReference.cache
+C:\projetos\ExPolimorfismo\ExPolimorfismo\obj\Debug\netcoreapp3.1\ExPolimorfismo.csproj.CoreCompileInputs.cache
+C:\projetos\ExPolimorfismo\ExPolimorfismo\obj\Debug\netcoreapp3.1\ExPolimorfismo.AssemblyInfoInputs.cache
+C:\projetos\ExPolimorfismo\ExPolimorfismo\obj\Debug\netcoreapp3.1\ExPolimorfismo.AssemblyInfo.cs
+C:\projetos\ExPolimorfismo\ExPolimorfismo\obj\Debug\netcoreapp3.1\ExPolimorfismo.dll
+C:\projetos\ExPolimorfismo\ExPolimorfismo\obj\Debug\netcoreapp3.1\ExPolimorfismo.pdb
+C:\projetos\ExPolimorfismo\ExPolimorfismo\obj\Debug\netcoreapp3.1\ExPolimorfismo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\projetos\MetodoEstaticoI\MetodoEstaticoI\obj\Debug\netcoreapp3.1\MetodoEstaticoI.csprojAssemblyReference.cache
+C:\projetos\MetodoEstaticoI\MetodoEstaticoI\obj\Debug\netcoreapp3.1\MetodoEstaticoI.csproj.CoreCompileInputs.cache
+C:\projetos\MetodoEstaticoI\MetodoEstaticoI\obj\Debug\netcoreapp3.1\MetodoEstaticoI.AssemblyInfoInputs.cache
+C:\projetos\MetodoEstaticoI\MetodoEstaticoI\obj\Debug\netcoreapp3.1\MetodoEstaticoI.AssemblyInfo.cs
+C:\projetos\MetodoEstaticoI\MetodoEstaticoI\bin\Debug\netcoreapp3.1\MetodoEstaticoI.exe
+C:\projetos\MetodoEstaticoI\MetodoEstaticoI\bin\Debug\netcoreapp3.1\MetodoEstaticoI.deps.json
+C:\projetos\MetodoEstaticoI\MetodoEstaticoI\bin\Debug\netcoreapp3.1\MetodoEstaticoI.runtimeconfig.json
+C:\projetos\MetodoEstaticoI\MetodoEstaticoI\bin\Debug\netcoreapp3.1\MetodoEstaticoI.runtimeconfig.dev.json
+C:\projetos\MetodoEstaticoI\MetodoEstaticoI\bin\Debug\netcoreapp3.1\MetodoEstaticoI.dll
+C:\projetos\MetodoEstaticoI\MetodoEstaticoI\bin\Debug\netcoreapp3.1\MetodoEstaticoI.pdb
+C:\projetos\MetodoEstaticoI\MetodoEstaticoI\obj\Debug\netcoreapp3.1\MetodoEstaticoI.dll
+C:\projetos\MetodoEstaticoI\MetodoEstaticoI\obj\Debug\netcoreapp3.1\MetodoEstaticoI.pdb
+C:\projetos\MetodoEstaticoI\MetodoEstaticoI\obj\Debug\netcoreapp3.1\MetodoEstaticoI.genruntimeconfig.cache

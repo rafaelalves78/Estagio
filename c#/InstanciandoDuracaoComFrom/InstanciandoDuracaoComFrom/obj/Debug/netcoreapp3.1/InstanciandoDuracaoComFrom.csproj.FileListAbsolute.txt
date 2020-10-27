@@ -1,0 +1,13 @@
+C:\projetos\InstanciandoDuracaoComFrom\InstanciandoDuracaoComFrom\bin\Debug\netcoreapp3.1\InstanciandoDuracaoComFrom.exe
+C:\projetos\InstanciandoDuracaoComFrom\InstanciandoDuracaoComFrom\bin\Debug\netcoreapp3.1\InstanciandoDuracaoComFrom.deps.json
+C:\projetos\InstanciandoDuracaoComFrom\InstanciandoDuracaoComFrom\bin\Debug\netcoreapp3.1\InstanciandoDuracaoComFrom.runtimeconfig.json
+C:\projetos\InstanciandoDuracaoComFrom\InstanciandoDuracaoComFrom\bin\Debug\netcoreapp3.1\InstanciandoDuracaoComFrom.runtimeconfig.dev.json
+C:\projetos\InstanciandoDuracaoComFrom\InstanciandoDuracaoComFrom\bin\Debug\netcoreapp3.1\InstanciandoDuracaoComFrom.dll
+C:\projetos\InstanciandoDuracaoComFrom\InstanciandoDuracaoComFrom\bin\Debug\netcoreapp3.1\InstanciandoDuracaoComFrom.pdb
+C:\projetos\InstanciandoDuracaoComFrom\InstanciandoDuracaoComFrom\obj\Debug\netcoreapp3.1\InstanciandoDuracaoComFrom.csprojAssemblyReference.cache
+C:\projetos\InstanciandoDuracaoComFrom\InstanciandoDuracaoComFrom\obj\Debug\netcoreapp3.1\InstanciandoDuracaoComFrom.csproj.CoreCompileInputs.cache
+C:\projetos\InstanciandoDuracaoComFrom\InstanciandoDuracaoComFrom\obj\Debug\netcoreapp3.1\InstanciandoDuracaoComFrom.AssemblyInfoInputs.cache
+C:\projetos\InstanciandoDuracaoComFrom\InstanciandoDuracaoComFrom\obj\Debug\netcoreapp3.1\InstanciandoDuracaoComFrom.AssemblyInfo.cs
+C:\projetos\InstanciandoDuracaoComFrom\InstanciandoDuracaoComFrom\obj\Debug\netcoreapp3.1\InstanciandoDuracaoComFrom.dll
+C:\projetos\InstanciandoDuracaoComFrom\InstanciandoDuracaoComFrom\obj\Debug\netcoreapp3.1\InstanciandoDuracaoComFrom.pdb
+C:\projetos\InstanciandoDuracaoComFrom\InstanciandoDuracaoComFrom\obj\Debug\netcoreapp3.1\InstanciandoDuracaoComFrom.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\projetos\CursosAlunosConjuntos\CursosAlunosConjuntos\bin\Debug\netcoreapp3.1\CursosAlunosConjuntos.exe
+C:\projetos\CursosAlunosConjuntos\CursosAlunosConjuntos\bin\Debug\netcoreapp3.1\CursosAlunosConjuntos.deps.json
+C:\projetos\CursosAlunosConjuntos\CursosAlunosConjuntos\bin\Debug\netcoreapp3.1\CursosAlunosConjuntos.runtimeconfig.json
+C:\projetos\CursosAlunosConjuntos\CursosAlunosConjuntos\bin\Debug\netcoreapp3.1\CursosAlunosConjuntos.runtimeconfig.dev.json
+C:\projetos\CursosAlunosConjuntos\CursosAlunosConjuntos\bin\Debug\netcoreapp3.1\CursosAlunosConjuntos.dll
+C:\projetos\CursosAlunosConjuntos\CursosAlunosConjuntos\bin\Debug\netcoreapp3.1\CursosAlunosConjuntos.pdb
+C:\projetos\CursosAlunosConjuntos\CursosAlunosConjuntos\obj\Debug\netcoreapp3.1\CursosAlunosConjuntos.csprojAssemblyReference.cache
+C:\projetos\CursosAlunosConjuntos\CursosAlunosConjuntos\obj\Debug\netcoreapp3.1\CursosAlunosConjuntos.AssemblyInfoInputs.cache
+C:\projetos\CursosAlunosConjuntos\CursosAlunosConjuntos\obj\Debug\netcoreapp3.1\CursosAlunosConjuntos.AssemblyInfo.cs
+C:\projetos\CursosAlunosConjuntos\CursosAlunosConjuntos\obj\Debug\netcoreapp3.1\CursosAlunosConjuntos.csproj.CoreCompileInputs.cache
+C:\projetos\CursosAlunosConjuntos\CursosAlunosConjuntos\obj\Debug\netcoreapp3.1\CursosAlunosConjuntos.dll
+C:\projetos\CursosAlunosConjuntos\CursosAlunosConjuntos\obj\Debug\netcoreapp3.1\CursosAlunosConjuntos.pdb
+C:\projetos\CursosAlunosConjuntos\CursosAlunosConjuntos\obj\Debug\netcoreapp3.1\CursosAlunosConjuntos.genruntimeconfig.cache

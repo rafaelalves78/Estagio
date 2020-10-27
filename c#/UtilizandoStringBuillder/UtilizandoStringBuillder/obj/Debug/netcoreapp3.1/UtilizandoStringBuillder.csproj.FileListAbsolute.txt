@@ -1,0 +1,13 @@
+C:\projetos\UtilizandoStringBuillder\UtilizandoStringBuillder\bin\Debug\netcoreapp3.1\UtilizandoStringBuillder.exe
+C:\projetos\UtilizandoStringBuillder\UtilizandoStringBuillder\bin\Debug\netcoreapp3.1\UtilizandoStringBuillder.deps.json
+C:\projetos\UtilizandoStringBuillder\UtilizandoStringBuillder\bin\Debug\netcoreapp3.1\UtilizandoStringBuillder.runtimeconfig.json
+C:\projetos\UtilizandoStringBuillder\UtilizandoStringBuillder\bin\Debug\netcoreapp3.1\UtilizandoStringBuillder.runtimeconfig.dev.json
+C:\projetos\UtilizandoStringBuillder\UtilizandoStringBuillder\bin\Debug\netcoreapp3.1\UtilizandoStringBuillder.dll
+C:\projetos\UtilizandoStringBuillder\UtilizandoStringBuillder\bin\Debug\netcoreapp3.1\UtilizandoStringBuillder.pdb
+C:\projetos\UtilizandoStringBuillder\UtilizandoStringBuillder\obj\Debug\netcoreapp3.1\UtilizandoStringBuillder.csprojAssemblyReference.cache
+C:\projetos\UtilizandoStringBuillder\UtilizandoStringBuillder\obj\Debug\netcoreapp3.1\UtilizandoStringBuillder.csproj.CoreCompileInputs.cache
+C:\projetos\UtilizandoStringBuillder\UtilizandoStringBuillder\obj\Debug\netcoreapp3.1\UtilizandoStringBuillder.AssemblyInfoInputs.cache
+C:\projetos\UtilizandoStringBuillder\UtilizandoStringBuillder\obj\Debug\netcoreapp3.1\UtilizandoStringBuillder.AssemblyInfo.cs
+C:\projetos\UtilizandoStringBuillder\UtilizandoStringBuillder\obj\Debug\netcoreapp3.1\UtilizandoStringBuillder.dll
+C:\projetos\UtilizandoStringBuillder\UtilizandoStringBuillder\obj\Debug\netcoreapp3.1\UtilizandoStringBuillder.pdb
+C:\projetos\UtilizandoStringBuillder\UtilizandoStringBuillder\obj\Debug\netcoreapp3.1\UtilizandoStringBuillder.genruntimeconfig.cache
