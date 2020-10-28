@@ -6,7 +6,8 @@ var menus = require("./../inc/menus");
 var reservations = require("./../inc/reservations");
 var contacts = require("./../inc/contacts");
 var emails = require("./../inc/emails")
-var moment = require("moment")
+var moment = require("moment");
+const { chart } = require('./../inc/reservations');
 var router = express.Router();
 
 moment.locale("pt-BR")
@@ -155,8 +156,9 @@ router.delete("/menus/:id", function(req, res, next){
 
 router.get("/reservations", function(req, res, next){
 
-    let start = (req.query.start) ? req.query.start : moment().subtract(1, "year").format("YYYY-MM-DD")
-    let end = (req.query.end) ? req.query.end : moment().format("YYYY-MM-DD")
+    let start = (req.query.start) ? req.query.start : moment().subtract(1, "year").format('YYYY-MM-DD');
+    let end = (req.query.end) ? req.query.end : moment().format('YYYY-MM-DD');
+
 
     reservations.getReservations(req).then(pag => {
         res.render("admin/reservations", admin.getParams(req, {
@@ -169,10 +171,17 @@ router.get("/reservations", function(req, res, next){
             links: pag.links
 
         }))
-
     })
+})
 
-  
+router.get("/reservations/chart", function(req, res, next){
+
+    req.query.start = (req.query.start) ? req.query.start : moment().subtract(1, "year").format("YYYY-MM-DD")
+    req.query.end = (req.query.end) ? req.query.end : moment().format("YYYY-MM-DD")
+
+    reservations.chart(req).then(chartData =>{
+        res.send(chartData);
+    })
 
 })
 
