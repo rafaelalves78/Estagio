@@ -33,6 +33,7 @@ class HcodeGrid{
         this.options = Object.assign({}, {
             formCreate:'#modal-create form',
             formUpdate:'#modal-update form',
+            modalUpdate: '#modal-update',
             btnUpdate: 'btn-update',
             btnDelete: 'btn-delete',
             onUpdateLoad: (form, name, data) => {

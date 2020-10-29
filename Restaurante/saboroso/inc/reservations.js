@@ -176,7 +176,37 @@ module.exports = {
                 }
             });
         })
-    }
+    },
 
+
+ dashboard() {
+
+        return new Promise((resolve, reject) => {
+
+            
+            conn.query(`
+                select
+                    (select count(*) from tb_contacts) AS nrcontacts,
+                    (select count(*) from tb_menus) AS nrmenus,
+                    (select count(*) from tb_reservations) AS nrreservations,
+                    (select count(*) from tb_users) AS nrusers;
+            `, (err, results) => {
+
+                if (err) {
+
+                    reject(err)
+
+                } else {
+
+                   
+                    resolve(results[0])
+
+                }
+
+            })
+
+        })
+
+    }
 
 }
