@@ -1,0 +1,14 @@
+{
+  "name": "pug-template",
+  "version": "1.0.0",
+  "description": "Exemplo de um site simples usando Pug",
+  "main": "index.js",
+  "scripts": {
+    "build": "pug templates/*.pug --pretty --out ./build"
+  },
+  "keywords": [],
+  "author": "rafael",
+  "dependencies": {
+    "pug-cli": "^1.0.0-alpha6"
+  }
+}
